@@ -1,0 +1,9 @@
+path: .
+train: trash-detection-kaggle/images/train  # Caminho relativo para imagens de treino
+val: trash-detection-kaggle/images/val      # Caminho relativo para imagens de validação
+
+# Número de classes
+nc: 4
+
+# Nomes das classes
+names: ['dirt', 'liquid', 'marks', 'trash']

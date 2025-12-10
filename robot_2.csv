@@ -1,0 +1,1001 @@
+Brand,Model,Battery_Life_Minutes,Charging_Time_Hours,Dustbin_Capacity_ml,Suction_Power_Pa,Noise_Level_dB,WiFi_Connectivity,App_Control,Voice_Control,Mapping_Technology,Obstacle_Avoidance,HEPA_Filter,Auto_Dock,Runtime_Adjustment,Carpet_Boost,Number_of_Sensors,Weight_kg,Height_cm,Smart_Scheduling,Multi_Floor_Mapping,Mop_Function,Self_Emptying,Price_USD
+Xiaomi,Xiaomi R29 Ultra,127,5.9,686,2432,69,Yes,Yes,Yes,Lidar+Camera,No,No,Yes,No,No,17,5.5,7.0,Yes,Yes,No,Yes,437
+Roborock,Roborock S8 Ultra,160,3.2,635,2458,64,Yes,Yes,Yes,Lidar,Yes,Yes,No,Yes,No,16,3.0,8.9,Yes,Yes,No,Yes,965
+Roborock,Roborock S41 Pro,134,6.0,530,4948,68,Yes,Yes,Yes,Camera,Yes,Yes,Yes,No,Yes,8,4.3,7.7,Yes,Yes,No,Yes,253
+Eufy,Eufy V18,169,5.8,651,4488,69,No,No,No,Lidar+Camera,No,No,Yes,Yes,No,16,3.4,7.0,No,No,No,Yes,788
+Samsung,Samsung S37 Max,118,5.9,449,2167,65,Yes,Yes,No,Lidar,Yes,No,Yes,Yes,Yes,9,3.5,10.4,Yes,Yes,No,Yes,766
+LG,LG R43 Ultra,96,2.7,445,4293,65,Yes,No,No,Lidar+Camera,Yes,Yes,No,No,No,13,4.2,9.0,Yes,Yes,No,No,757
+LG,LG R16 Ultra,171,5.8,393,2683,65,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,18,3.3,8.0,No,No,No,No,916
+Ecovacs,Ecovacs V38 Ultra,92,4.9,465,2051,65,Yes,Yes,Yes,Camera,No,No,Yes,No,Yes,20,3.5,9.0,Yes,No,Yes,No,311
+LG,LG R12 Ultra,85,3.0,570,2397,56,Yes,No,Yes,Lidar,No,No,No,No,Yes,10,4.0,9.0,Yes,Yes,No,Yes,863
+Proscenic,Proscenic S46 Pro,200,4.5,350,4454,61,No,No,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,7,3.6,8.0,Yes,Yes,No,Yes,948
+Roborock,Roborock V66 Max,155,5.8,689,2047,56,No,Yes,No,Camera,Yes,Yes,Yes,No,Yes,18,3.4,10.3,No,Yes,No,Yes,170
+iRobot,iRobot V85 Ultra,85,5.1,640,4219,62,No,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,8,3.2,8.3,Yes,No,No,Yes,943
+Dreame,Dreame V64 Pro,64,3.1,416,2947,56,No,Yes,Yes,Lidar+Camera,No,No,Yes,No,Yes,11,2.8,7.4,Yes,Yes,No,No,794
+Proscenic,Proscenic V89 Pro,156,3.8,440,1699,68,Yes,No,No,Lidar+Camera,No,Yes,No,Yes,No,13,4.6,8.2,Yes,Yes,Yes,Yes,283
+Eufy,Eufy R35 Max,122,3.1,392,2660,68,Yes,Yes,No,Infrared,Yes,No,Yes,No,No,16,2.8,10.4,No,Yes,Yes,Yes,607
+Neato,Neato V89 Pro,104,4.9,369,5049,67,No,No,No,Lidar+Camera,Yes,No,No,No,Yes,8,5.3,10.0,Yes,Yes,Yes,Yes,434
+Proscenic,Proscenic R51 Pro,141,5.5,488,2795,66,No,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,9,3.9,7.7,No,No,Yes,No,998
+Neato,Neato R14 Max,110,3.6,387,5222,67,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,18,4.3,7.9,Yes,Yes,Yes,Yes,321
+Eufy,Eufy V85 Ultra,76,3.5,463,4523,61,No,Yes,Yes,Infrared,No,Yes,Yes,No,Yes,16,3.4,7.2,No,No,No,Yes,778
+Neato,Neato X70 Ultra,107,5.0,388,4065,67,No,No,Yes,Camera,Yes,No,No,Yes,Yes,17,2.8,10.4,No,No,No,No,911
+Samsung,Samsung R14,166,3.7,482,3011,67,No,Yes,No,Camera,Yes,No,No,Yes,Yes,18,5.3,10.6,Yes,No,Yes,No,439
+LG,LG V21 Ultra,127,4.0,641,2910,69,Yes,Yes,Yes,Infrared,No,No,Yes,No,No,14,2.8,10.0,Yes,No,No,No,794
+Eufy,Eufy S8,105,2.6,381,4164,63,Yes,Yes,Yes,Camera,Yes,Yes,No,Yes,No,9,3.1,8.2,No,Yes,No,Yes,937
+Neato,Neato V24 Max,126,4.6,383,2618,67,No,No,Yes,Lidar+Camera,Yes,No,Yes,Yes,No,11,2.8,8.7,No,No,No,Yes,633
+Proscenic,Proscenic S72 Ultra,132,2.6,482,2318,58,No,No,Yes,Infrared,No,Yes,No,No,Yes,17,5.2,9.4,Yes,Yes,No,Yes,474
+LG,LG S75 Ultra,88,5.6,573,4582,55,Yes,No,Yes,Infrared,No,Yes,No,No,No,9,3.4,9.5,No,Yes,No,No,402
+Ecovacs,Ecovacs S15,141,3.4,467,4444,63,Yes,Yes,No,Lidar+Camera,No,No,No,Yes,Yes,14,5.5,7.1,Yes,Yes,Yes,Yes,527
+LG,LG X65 Max,172,4.7,647,3297,57,Yes,Yes,Yes,Lidar,Yes,Yes,No,No,Yes,14,2.9,8.4,Yes,Yes,No,No,1023
+Samsung,Samsung V81,89,5.1,579,5090,56,Yes,Yes,No,Lidar,Yes,Yes,Yes,No,No,17,3.0,8.9,Yes,No,No,No,829
+Dreame,Dreame X29 Pro,85,5.7,388,1846,56,No,No,Yes,Lidar,Yes,Yes,No,Yes,Yes,9,3.2,9.3,Yes,No,Yes,Yes,752
+Dreame,Dreame V27 Max,75,3.4,693,5090,62,No,No,Yes,Infrared,No,No,No,No,No,20,2.6,8.0,No,No,Yes,No,169
+Samsung,Samsung V47 Max,190,5.7,653,3801,63,Yes,No,Yes,Camera,Yes,No,Yes,No,No,16,3.0,8.6,Yes,Yes,No,No,995
+iRobot,iRobot R58 Ultra,79,5.1,394,2834,62,Yes,No,No,Camera,No,No,Yes,No,No,8,5.2,10.9,Yes,Yes,No,No,918
+Dreame,Dreame X7 Ultra,68,4.5,595,5324,69,No,Yes,Yes,Lidar+Camera,Yes,Yes,No,No,No,6,4.7,8.9,No,No,No,Yes,1114
+iRobot,iRobot X32 Max,62,4.4,698,5769,70,No,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,8,3.2,8.6,No,Yes,Yes,No,270
+Eufy,Eufy R50 Pro,185,3.6,359,4630,59,No,No,Yes,Lidar+Camera,Yes,No,Yes,Yes,No,9,4.8,7.3,No,No,No,No,619
+Roborock,Roborock R83,73,2.7,611,4617,62,No,No,Yes,Infrared,Yes,Yes,Yes,Yes,No,6,4.8,10.7,No,No,No,Yes,920
+Neato,Neato R81 Max,60,2.9,561,2891,60,No,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,8,3.4,10.6,No,Yes,Yes,No,859
+Roborock,Roborock V84 Max,80,5.0,502,5659,55,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,No,13,2.6,8.3,Yes,No,No,No,1085
+Roborock,Roborock V70 Ultra,145,5.6,627,1651,66,No,No,No,Camera,Yes,No,No,No,No,12,3.0,9.0,Yes,No,Yes,No,243
+Dreame,Dreame R75 Pro,168,5.5,490,5537,58,Yes,Yes,No,Lidar+Camera,No,No,Yes,Yes,No,18,5.1,7.8,Yes,No,No,Yes,644
+Xiaomi,Xiaomi R79 Pro,178,5.2,432,5534,66,Yes,Yes,Yes,Infrared,Yes,No,Yes,Yes,Yes,6,3.0,9.3,No,No,Yes,No,402
+iRobot,iRobot V39 Max,151,4.7,457,3724,56,Yes,Yes,No,Camera,No,No,Yes,Yes,No,8,5.0,8.4,Yes,Yes,Yes,Yes,586
+Samsung,Samsung S29 Max,77,5.0,467,3345,68,Yes,Yes,No,Infrared,No,No,Yes,Yes,No,13,3.7,7.5,Yes,Yes,Yes,No,672
+Samsung,Samsung S19 Max,140,3.2,385,1865,69,No,Yes,Yes,Lidar+Camera,Yes,No,No,No,Yes,20,4.4,8.4,No,No,No,No,406
+Samsung,Samsung S33 Pro,177,2.8,627,5345,59,No,No,Yes,Camera,Yes,Yes,No,Yes,No,7,2.7,7.6,Yes,Yes,No,Yes,525
+Ecovacs,Ecovacs V78,136,4.0,384,1591,56,Yes,Yes,No,Camera,No,Yes,No,Yes,Yes,8,4.2,8.1,Yes,Yes,Yes,Yes,450
+Ecovacs,Ecovacs R64 Ultra,192,3.9,631,2604,67,Yes,No,No,Infrared,Yes,No,No,No,Yes,13,5.0,10.7,No,Yes,Yes,No,1047
+Neato,Neato R24,159,3.3,451,1654,70,No,Yes,Yes,Lidar,No,Yes,Yes,Yes,No,19,3.8,8.7,No,Yes,Yes,No,371
+Samsung,Samsung R84,155,4.8,653,4098,65,No,Yes,Yes,Camera,No,Yes,No,No,Yes,9,4.9,7.2,No,Yes,No,No,422
+Dreame,Dreame R19 Ultra,120,5.8,620,5510,62,Yes,No,Yes,Lidar+Camera,Yes,Yes,No,Yes,Yes,16,2.9,10.4,No,Yes,Yes,No,309
+Neato,Neato R22,164,4.9,672,1959,64,No,No,No,Infrared,No,No,No,Yes,No,11,4.2,8.2,No,No,Yes,No,460
+LG,LG X82 Pro,101,2.7,445,3915,70,Yes,No,Yes,Camera,Yes,No,Yes,No,Yes,20,5.4,9.8,Yes,No,Yes,Yes,931
+Neato,Neato S53 Ultra,122,3.6,607,2080,58,Yes,No,Yes,Infrared,Yes,Yes,Yes,Yes,No,19,2.8,7.3,No,Yes,Yes,No,884
+LG,LG S57,134,3.8,487,1588,65,Yes,Yes,Yes,Infrared,Yes,No,Yes,Yes,No,14,5.0,8.1,Yes,No,No,No,1192
+Proscenic,Proscenic V40 Pro,75,3.3,640,4545,67,Yes,Yes,No,Infrared,No,Yes,No,No,No,19,3.5,11.0,Yes,Yes,No,No,817
+Xiaomi,Xiaomi X27 Ultra,93,5.3,684,3619,65,No,No,No,Lidar,No,Yes,No,No,No,10,3.9,10.1,Yes,No,Yes,Yes,340
+Xiaomi,Xiaomi X69,132,2.7,652,3203,58,No,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,18,5.3,10.5,Yes,Yes,Yes,Yes,237
+Dreame,Dreame R11 Max,189,5.2,531,4296,63,Yes,Yes,Yes,Camera,No,No,Yes,Yes,Yes,13,3.6,7.4,No,No,No,Yes,228
+Neato,Neato X43 Max,175,4.7,658,3323,61,No,No,No,Lidar+Camera,Yes,No,Yes,No,No,10,5.3,9.9,No,Yes,No,No,759
+LG,LG X46 Pro,192,5.3,401,3306,55,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,No,18,3.6,9.4,Yes,Yes,No,Yes,1163
+Eufy,Eufy X18 Max,196,2.5,460,2862,70,No,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,6,4.1,9.7,No,No,No,Yes,700
+Dreame,Dreame S81 Pro,121,6.0,453,1984,60,Yes,Yes,Yes,Infrared,No,Yes,No,Yes,No,7,5.1,8.9,Yes,No,No,Yes,1184
+Neato,Neato R78 Max,172,5.7,491,5441,64,No,Yes,Yes,Infrared,Yes,Yes,Yes,No,No,16,3.1,9.8,Yes,No,No,Yes,973
+Xiaomi,Xiaomi R85 Ultra,128,5.9,374,3869,57,No,Yes,Yes,Lidar+Camera,Yes,No,No,No,Yes,19,5.0,7.6,No,Yes,Yes,Yes,996
+Roborock,Roborock V25 Ultra,96,5.5,361,2809,60,Yes,No,No,Camera,Yes,Yes,No,Yes,No,12,4.5,10.5,No,Yes,No,Yes,1125
+LG,LG V66,164,4.0,584,3019,59,Yes,No,No,Infrared,No,No,Yes,Yes,No,19,4.0,9.8,Yes,No,No,Yes,796
+Neato,Neato S67 Pro,151,3.9,432,1924,69,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,9,4.7,8.3,Yes,Yes,Yes,Yes,911
+Roborock,Roborock S86 Max,133,5.5,404,3222,70,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,18,3.0,10.2,No,Yes,No,No,976
+Ecovacs,Ecovacs R9,81,3.7,594,3830,59,No,Yes,Yes,Lidar+Camera,No,Yes,No,Yes,No,10,4.4,8.3,Yes,Yes,No,Yes,1015
+Samsung,Samsung R94 Pro,88,5.7,491,4677,56,No,No,Yes,Camera,No,Yes,No,Yes,Yes,18,4.2,9.4,No,No,No,Yes,1037
+iRobot,iRobot S95 Ultra,172,2.8,590,5676,61,No,No,Yes,Camera,No,No,No,No,No,17,3.4,7.3,No,No,No,Yes,197
+Eufy,Eufy X9 Pro,70,2.6,510,4214,68,No,Yes,Yes,Camera,No,No,Yes,No,No,10,3.1,9.5,No,Yes,Yes,No,912
+Samsung,Samsung R94 Max,131,5.5,360,5557,59,Yes,No,Yes,Infrared,Yes,Yes,No,Yes,Yes,19,3.4,10.3,No,Yes,No,Yes,286
+LG,LG V90 Pro,63,3.0,604,2056,61,Yes,No,No,Lidar+Camera,No,No,No,Yes,No,9,4.0,7.6,No,No,No,Yes,1056
+Samsung,Samsung R59 Ultra,159,5.0,437,1925,60,No,No,Yes,Lidar+Camera,Yes,Yes,No,No,Yes,17,5.0,10.6,No,No,Yes,Yes,173
+Xiaomi,Xiaomi X16,110,4.6,399,1501,68,Yes,Yes,Yes,Infrared,No,No,No,Yes,No,14,4.4,8.3,Yes,No,No,No,738
+LG,LG X64,198,4.4,575,4174,62,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,Yes,6,3.9,9.0,Yes,Yes,No,No,1165
+iRobot,iRobot V74 Ultra,121,2.6,676,2702,67,No,No,No,Camera,No,No,Yes,No,No,12,3.0,7.1,Yes,No,No,Yes,631
+iRobot,iRobot S34 Ultra,107,2.6,466,3268,68,No,Yes,Yes,Lidar+Camera,Yes,Yes,No,No,Yes,6,3.0,8.7,No,Yes,No,No,420
+Ecovacs,Ecovacs V48 Ultra,185,4.2,427,4917,67,No,Yes,Yes,Infrared,No,No,No,No,Yes,19,4.0,8.7,No,No,No,Yes,351
+iRobot,iRobot R46 Ultra,165,3.4,625,4681,60,No,No,Yes,Lidar,Yes,Yes,No,No,Yes,14,4.5,9.0,No,No,No,No,1127
+Samsung,Samsung S63 Ultra,70,5.9,664,2728,58,No,No,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,18,4.9,9.3,Yes,No,Yes,Yes,422
+Dreame,Dreame S36,129,4.0,529,4233,66,Yes,Yes,No,Infrared,No,Yes,No,Yes,No,17,4.5,9.0,Yes,Yes,Yes,Yes,966
+Samsung,Samsung S34 Max,146,2.7,357,4479,64,Yes,No,Yes,Infrared,No,Yes,No,Yes,No,13,4.9,8.9,Yes,No,No,Yes,835
+Ecovacs,Ecovacs V55,102,5.5,455,1781,61,No,No,No,Camera,Yes,No,Yes,No,Yes,11,4.3,10.0,Yes,No,No,Yes,952
+Proscenic,Proscenic X19 Max,161,4.1,485,4002,69,No,Yes,Yes,Infrared,No,No,No,No,Yes,18,4.3,9.6,No,Yes,Yes,Yes,574
+Samsung,Samsung S77 Max,66,2.7,621,4649,58,Yes,Yes,No,Infrared,Yes,Yes,Yes,Yes,Yes,19,4.2,7.6,No,No,No,No,648
+Ecovacs,Ecovacs X61 Pro,154,2.5,540,4183,69,Yes,Yes,No,Infrared,Yes,Yes,Yes,No,No,17,5.2,8.0,No,No,Yes,No,797
+Ecovacs,Ecovacs S35 Pro,166,3.9,621,1936,68,Yes,No,Yes,Infrared,Yes,Yes,Yes,No,Yes,12,5.5,7.5,No,Yes,Yes,No,551
+Neato,Neato X10 Pro,79,3.5,407,5259,59,Yes,No,Yes,Camera,Yes,No,No,No,Yes,15,4.4,7.0,Yes,Yes,Yes,Yes,577
+Xiaomi,Xiaomi R11,195,5.8,441,4629,62,No,Yes,Yes,Lidar,No,No,Yes,No,No,17,3.6,9.7,No,No,No,Yes,701
+LG,LG V52 Max,123,3.7,452,1997,69,No,No,Yes,Infrared,No,Yes,Yes,No,Yes,12,3.4,7.5,No,Yes,Yes,No,542
+LG,LG V93,159,4.8,616,4442,65,No,Yes,Yes,Infrared,No,Yes,Yes,Yes,No,18,5.1,10.1,Yes,No,Yes,Yes,696
+LG,LG R8 Pro,63,4.9,633,2967,56,Yes,No,Yes,Lidar,No,No,No,Yes,No,9,4.8,7.7,No,No,No,Yes,436
+Roborock,Roborock X40,181,6.0,463,3187,64,No,No,No,Infrared,No,No,Yes,No,Yes,16,3.1,10.8,No,No,Yes,No,1125
+Eufy,Eufy S47 Max,135,3.3,543,2085,57,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,15,4.9,9.7,Yes,No,Yes,No,644
+Xiaomi,Xiaomi V67 Ultra,84,3.9,519,1770,59,Yes,No,Yes,Lidar,Yes,Yes,No,Yes,Yes,20,2.6,8.7,No,No,No,Yes,939
+Roborock,Roborock X10 Ultra,157,3.4,383,2695,59,Yes,No,Yes,Infrared,No,No,No,No,No,11,2.8,9.0,No,No,Yes,Yes,1192
+iRobot,iRobot R86 Max,149,3.7,617,5936,64,Yes,Yes,No,Camera,Yes,Yes,Yes,No,No,6,4.1,10.3,No,No,Yes,No,343
+Xiaomi,Xiaomi V24,194,4.0,638,1584,61,Yes,Yes,Yes,Camera,No,Yes,Yes,No,Yes,18,2.5,8.0,No,No,No,No,896
+Dreame,Dreame X15 Ultra,150,4.8,445,5790,62,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,12,5.0,9.3,No,No,Yes,Yes,380
+Proscenic,Proscenic S99,86,5.4,638,3819,63,No,No,Yes,Lidar+Camera,No,No,No,No,No,14,3.4,10.3,No,Yes,Yes,No,417
+Eufy,Eufy V78,155,3.7,621,1533,62,No,No,Yes,Camera,No,Yes,No,No,Yes,6,3.8,8.7,Yes,Yes,Yes,Yes,1173
+Xiaomi,Xiaomi R28 Ultra,113,4.3,640,2989,68,Yes,No,Yes,Infrared,No,No,No,Yes,No,7,4.2,8.3,No,Yes,No,Yes,998
+Roborock,Roborock X93 Ultra,195,3.5,427,1946,66,Yes,Yes,No,Lidar,No,No,Yes,No,Yes,13,4.8,7.5,No,Yes,No,No,1140
+Dreame,Dreame X10 Ultra,190,5.2,513,2194,55,No,No,No,Lidar+Camera,Yes,Yes,Yes,No,Yes,18,4.3,10.0,Yes,Yes,Yes,Yes,1076
+Proscenic,Proscenic V80 Ultra,163,5.9,463,1769,62,Yes,Yes,No,Camera,Yes,Yes,Yes,Yes,Yes,19,3.1,9.0,No,No,No,Yes,1121
+Dreame,Dreame X77 Pro,172,4.6,548,3349,68,Yes,No,No,Lidar,No,No,Yes,No,No,16,3.7,10.7,Yes,No,No,No,398
+Xiaomi,Xiaomi V10 Ultra,75,3.6,625,4915,57,No,No,Yes,Lidar+Camera,No,No,No,No,Yes,18,3.8,9.2,No,Yes,No,No,859
+Neato,Neato S57 Ultra,158,4.8,507,2074,56,Yes,Yes,Yes,Camera,No,Yes,No,Yes,No,17,5.4,7.8,No,No,No,No,1189
+Dreame,Dreame R40 Pro,123,5.8,596,3200,62,No,No,Yes,Camera,No,No,Yes,No,Yes,15,2.6,9.5,Yes,No,Yes,No,851
+iRobot,iRobot V48 Max,195,3.2,406,3938,64,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,No,14,3.7,10.3,Yes,Yes,Yes,No,159
+Dreame,Dreame V15 Ultra,74,3.3,534,4574,66,Yes,Yes,Yes,Lidar,No,No,Yes,No,Yes,13,3.4,10.1,Yes,Yes,Yes,No,391
+Dreame,Dreame R56,128,5.2,631,2395,62,Yes,No,Yes,Lidar,Yes,No,No,Yes,Yes,12,4.0,7.3,No,Yes,Yes,Yes,574
+Samsung,Samsung R45,148,4.8,515,3590,69,No,No,No,Lidar,No,Yes,Yes,Yes,Yes,16,3.8,9.7,Yes,No,No,No,279
+Ecovacs,Ecovacs R67 Pro,185,3.3,388,2743,64,No,Yes,No,Lidar,No,Yes,Yes,Yes,Yes,8,3.1,10.7,Yes,Yes,No,Yes,941
+LG,LG S96,119,5.8,432,5202,60,Yes,No,Yes,Camera,Yes,Yes,No,No,No,18,3.3,8.0,Yes,No,Yes,No,1154
+iRobot,iRobot V13 Max,195,5.9,677,1701,59,No,No,Yes,Lidar,No,No,Yes,Yes,Yes,6,3.0,8.5,No,No,No,No,1070
+Samsung,Samsung X15 Pro,125,5.9,586,3825,64,No,Yes,Yes,Camera,Yes,Yes,No,Yes,No,19,4.6,7.2,Yes,Yes,No,No,311
+Dreame,Dreame S87 Ultra,157,4.4,687,4942,67,No,No,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,10,2.5,10.7,Yes,Yes,No,No,567
+Ecovacs,Ecovacs R44 Pro,81,4.9,513,5145,69,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,Yes,8,3.9,8.3,Yes,No,No,No,590
+Dreame,Dreame V30 Max,76,3.7,637,4752,67,Yes,No,No,Camera,No,Yes,No,Yes,Yes,8,5.4,7.6,No,Yes,Yes,No,324
+Eufy,Eufy X25 Max,105,6.0,450,3734,69,No,No,Yes,Lidar+Camera,Yes,No,No,No,No,8,3.3,10.4,Yes,Yes,No,Yes,779
+Eufy,Eufy S77,113,2.8,543,1792,67,No,No,No,Camera,No,Yes,Yes,No,Yes,16,2.8,7.5,No,No,Yes,Yes,674
+Roborock,Roborock R20,168,3.0,415,4599,61,Yes,No,No,Lidar,Yes,No,Yes,No,Yes,11,3.4,10.1,Yes,Yes,No,No,701
+Eufy,Eufy S76 Max,101,4.2,399,4268,68,No,No,Yes,Lidar+Camera,No,Yes,No,No,Yes,14,4.1,7.2,No,Yes,Yes,No,211
+Proscenic,Proscenic S14 Pro,196,5.6,485,1727,56,Yes,No,No,Camera,Yes,No,Yes,No,Yes,20,3.6,9.1,Yes,Yes,No,No,1113
+Neato,Neato X36 Ultra,75,4.3,489,2485,60,No,Yes,Yes,Infrared,No,No,No,Yes,No,8,2.6,8.2,Yes,No,No,No,328
+Samsung,Samsung R99,83,3.6,459,4710,65,No,Yes,Yes,Camera,No,No,Yes,No,Yes,20,4.4,9.7,Yes,Yes,Yes,Yes,679
+Proscenic,Proscenic S65 Pro,158,2.5,472,4867,55,No,Yes,Yes,Camera,No,No,No,No,Yes,6,3.8,10.1,Yes,No,Yes,No,459
+Xiaomi,Xiaomi X9 Ultra,166,4.6,361,5071,59,Yes,Yes,Yes,Lidar,No,Yes,Yes,No,Yes,11,3.2,7.2,Yes,Yes,No,No,769
+Roborock,Roborock R97 Pro,152,4.3,624,5247,66,Yes,Yes,Yes,Camera,No,No,Yes,Yes,No,19,5.4,7.4,No,Yes,No,Yes,157
+Samsung,Samsung R20 Max,126,3.6,633,3910,62,Yes,Yes,Yes,Camera,No,No,No,Yes,Yes,8,5.0,10.6,No,No,Yes,No,761
+Ecovacs,Ecovacs X91,197,3.0,445,3780,59,Yes,Yes,Yes,Lidar,Yes,No,Yes,No,No,12,2.7,9.7,Yes,Yes,No,No,604
+Xiaomi,Xiaomi X49 Max,109,3.0,423,2772,61,No,No,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,6,2.8,10.8,No,No,No,Yes,255
+LG,LG S86,156,5.9,475,3253,60,No,No,Yes,Infrared,Yes,Yes,No,Yes,No,8,4.8,10.0,Yes,No,Yes,Yes,768
+iRobot,iRobot V41 Pro,75,5.8,376,3383,61,Yes,Yes,Yes,Infrared,Yes,No,No,No,No,15,4.4,8.3,Yes,No,Yes,Yes,1159
+Proscenic,Proscenic V91 Max,168,5.0,409,5882,65,No,Yes,No,Infrared,Yes,No,Yes,Yes,Yes,10,4.3,10.7,No,Yes,Yes,Yes,450
+Ecovacs,Ecovacs X50 Ultra,82,3.3,548,1977,58,No,Yes,Yes,Camera,No,No,Yes,Yes,Yes,14,4.8,8.5,No,Yes,No,No,667
+Neato,Neato V66 Ultra,72,2.6,481,2262,70,Yes,No,Yes,Camera,Yes,Yes,Yes,Yes,Yes,17,3.5,7.1,Yes,Yes,Yes,Yes,972
+LG,LG S34,172,3.0,620,2434,57,Yes,Yes,Yes,Lidar,No,Yes,No,Yes,Yes,7,4.5,7.7,No,No,Yes,No,495
+Roborock,Roborock R32,64,5.1,618,4374,68,No,Yes,Yes,Camera,Yes,Yes,No,No,Yes,6,5.3,7.0,Yes,Yes,Yes,Yes,1181
+Ecovacs,Ecovacs S12 Max,176,3.9,498,2978,64,Yes,No,Yes,Camera,Yes,No,No,No,No,15,4.7,8.2,Yes,No,No,Yes,584
+Xiaomi,Xiaomi V53,140,4.6,645,1991,64,No,No,No,Lidar,No,Yes,Yes,No,No,6,4.3,10.3,Yes,Yes,Yes,No,950
+LG,LG S15,96,3.9,643,4820,56,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,13,4.4,10.6,Yes,No,No,No,500
+Eufy,Eufy X90 Pro,147,2.9,543,4264,62,Yes,Yes,No,Camera,Yes,No,Yes,Yes,No,20,5.2,7.7,Yes,Yes,No,No,983
+Roborock,Roborock X22 Max,149,3.5,465,5471,56,No,No,No,Infrared,Yes,Yes,No,Yes,Yes,16,4.1,10.3,No,No,No,Yes,564
+Roborock,Roborock S9,99,5.0,600,5625,63,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,No,20,4.4,8.6,Yes,Yes,Yes,Yes,670
+Roborock,Roborock R62 Max,163,4.3,371,5650,55,Yes,No,Yes,Infrared,Yes,No,Yes,No,No,19,5.1,10.9,No,Yes,Yes,No,284
+Eufy,Eufy R40 Ultra,195,5.5,396,1555,63,Yes,No,Yes,Camera,No,No,No,Yes,Yes,12,4.1,7.7,No,Yes,No,No,632
+Proscenic,Proscenic S58 Max,92,5.9,633,3226,60,Yes,No,No,Infrared,Yes,No,No,No,No,16,3.2,8.0,No,No,Yes,No,484
+iRobot,iRobot V37 Pro,168,5.9,598,1849,70,Yes,No,Yes,Lidar+Camera,No,No,No,Yes,Yes,12,5.4,9.7,No,No,No,Yes,510
+LG,LG X61 Max,186,3.5,664,2324,67,No,No,No,Camera,Yes,Yes,Yes,No,No,15,3.9,7.4,No,No,Yes,Yes,1170
+iRobot,iRobot V83 Max,184,2.7,632,2727,69,No,No,Yes,Lidar+Camera,Yes,No,No,Yes,No,11,4.5,8.2,Yes,Yes,Yes,Yes,363
+Roborock,Roborock S14,67,5.1,567,4911,55,No,No,Yes,Lidar+Camera,No,No,Yes,Yes,No,7,4.4,9.8,No,Yes,Yes,No,405
+Xiaomi,Xiaomi S83,61,4.9,459,3688,56,Yes,Yes,Yes,Camera,Yes,Yes,No,Yes,Yes,17,4.1,9.3,No,No,No,Yes,417
+iRobot,iRobot S79 Ultra,119,2.6,596,5039,62,No,No,No,Camera,Yes,No,No,No,No,18,2.7,7.4,Yes,No,Yes,No,800
+Dreame,Dreame V46,121,6.0,433,1556,62,No,Yes,No,Infrared,No,Yes,Yes,No,Yes,16,3.1,7.6,Yes,Yes,Yes,Yes,714
+Samsung,Samsung R25 Ultra,177,3.7,654,5005,55,Yes,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,17,4.2,10.3,No,No,Yes,No,692
+Neato,Neato V49 Max,192,2.8,547,3974,69,Yes,No,Yes,Lidar,Yes,Yes,No,No,Yes,11,4.2,8.5,No,No,Yes,Yes,1011
+Proscenic,Proscenic X32 Max,113,4.6,555,4891,61,Yes,Yes,No,Infrared,Yes,No,No,No,Yes,17,4.3,7.4,No,Yes,No,Yes,1077
+Proscenic,Proscenic S29 Max,112,5.0,510,3801,65,No,Yes,No,Infrared,Yes,No,No,No,Yes,10,4.8,7.3,Yes,No,Yes,No,1014
+Roborock,Roborock X5 Max,176,5.3,658,5922,57,Yes,No,No,Camera,No,Yes,No,Yes,Yes,17,5.2,9.5,Yes,No,No,Yes,226
+Proscenic,Proscenic R86,188,5.2,445,2508,57,No,Yes,No,Camera,No,Yes,No,Yes,Yes,19,2.8,7.1,No,Yes,Yes,No,598
+Dreame,Dreame V92 Pro,115,5.7,648,5781,56,No,Yes,Yes,Lidar+Camera,No,Yes,No,No,Yes,17,2.9,7.2,No,No,No,No,689
+iRobot,iRobot S98,198,4.6,572,4044,65,No,Yes,Yes,Lidar,No,No,No,No,Yes,17,3.3,7.9,Yes,No,Yes,No,220
+LG,LG R44,69,5.0,361,3679,62,Yes,Yes,Yes,Infrared,No,No,No,Yes,No,6,4.7,9.1,Yes,Yes,Yes,Yes,1152
+Neato,Neato X57 Max,60,4.2,651,3994,57,Yes,Yes,Yes,Lidar,No,No,Yes,No,Yes,19,5.1,9.1,No,No,Yes,Yes,963
+Roborock,Roborock R55 Pro,138,4.1,488,1648,69,Yes,No,No,Infrared,No,Yes,No,No,No,16,4.8,9.5,Yes,Yes,Yes,Yes,1137
+iRobot,iRobot S93 Max,112,5.2,695,2623,62,Yes,Yes,No,Lidar,No,No,Yes,No,Yes,13,3.7,9.2,No,Yes,No,Yes,349
+Roborock,Roborock V32 Max,162,3.6,397,1785,55,Yes,No,Yes,Infrared,No,No,Yes,Yes,Yes,17,3.7,9.5,No,No,Yes,No,581
+Eufy,Eufy V43,146,3.8,482,4285,65,Yes,No,No,Infrared,Yes,Yes,Yes,Yes,No,13,4.5,10.4,Yes,No,No,Yes,1090
+Xiaomi,Xiaomi S73 Pro,85,5.2,451,2618,68,No,No,Yes,Lidar+Camera,No,No,No,No,No,14,3.2,10.1,Yes,No,Yes,Yes,214
+Dreame,Dreame X98 Pro,146,5.7,551,4006,55,No,Yes,Yes,Infrared,No,No,Yes,No,No,8,5.3,10.5,No,No,Yes,No,1114
+Dreame,Dreame X76 Max,186,5.6,663,2730,68,Yes,No,No,Lidar+Camera,No,No,No,No,Yes,7,4.7,8.4,No,Yes,Yes,Yes,374
+iRobot,iRobot V38 Ultra,61,5.6,516,1787,64,No,No,Yes,Camera,No,No,No,No,Yes,20,2.7,10.6,No,Yes,No,Yes,737
+Eufy,Eufy X31 Ultra,86,3.6,580,2860,62,Yes,No,No,Lidar+Camera,No,Yes,Yes,No,No,10,3.6,9.6,No,No,No,Yes,1185
+Ecovacs,Ecovacs S39,153,4.7,654,3423,61,Yes,Yes,Yes,Lidar+Camera,No,No,No,Yes,Yes,12,3.6,7.7,No,Yes,Yes,Yes,1053
+Neato,Neato V57 Max,149,5.8,388,2137,66,No,No,No,Lidar,No,No,Yes,Yes,No,10,5.5,7.0,Yes,No,No,Yes,1111
+LG,LG R11,92,5.1,375,1937,59,No,No,Yes,Camera,No,No,No,Yes,Yes,16,4.9,9.8,Yes,No,Yes,Yes,1118
+Ecovacs,Ecovacs V13 Ultra,69,2.8,557,5665,69,Yes,Yes,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,19,3.1,7.1,No,No,No,No,181
+Dreame,Dreame S37 Pro,200,4.8,673,4382,68,Yes,No,No,Infrared,No,No,Yes,No,Yes,13,3.4,8.1,Yes,Yes,No,Yes,466
+Neato,Neato S68 Max,108,3.2,621,1676,69,No,Yes,No,Infrared,Yes,Yes,No,Yes,Yes,13,3.7,11.0,No,No,No,No,664
+Xiaomi,Xiaomi S16 Ultra,198,3.7,599,5509,63,No,No,Yes,Infrared,Yes,Yes,No,No,No,12,5.0,7.1,No,No,Yes,No,817
+Ecovacs,Ecovacs S45 Max,88,3.1,589,2802,66,Yes,No,Yes,Infrared,No,Yes,No,No,Yes,17,3.2,8.1,Yes,No,No,No,449
+Xiaomi,Xiaomi R40 Ultra,73,2.9,384,5766,65,Yes,No,Yes,Lidar+Camera,No,Yes,Yes,Yes,Yes,12,4.0,7.5,No,Yes,Yes,Yes,1036
+LG,LG V44,146,4.5,530,3675,63,Yes,No,No,Camera,Yes,No,No,No,No,18,4.8,10.8,Yes,No,Yes,No,1095
+Neato,Neato R74 Ultra,79,5.1,464,1890,63,No,No,Yes,Lidar+Camera,No,Yes,No,Yes,Yes,13,3.9,9.5,No,Yes,Yes,Yes,1198
+Roborock,Roborock X10,171,2.6,442,2689,59,No,No,No,Camera,No,No,No,No,Yes,13,4.7,8.0,No,Yes,Yes,Yes,845
+Eufy,Eufy V23 Max,122,5.8,389,2754,67,Yes,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,18,5.3,7.4,Yes,No,Yes,Yes,161
+Neato,Neato X43 Max,89,5.4,611,4767,60,Yes,Yes,No,Infrared,No,No,Yes,No,No,18,3.4,10.4,Yes,No,Yes,Yes,1101
+Ecovacs,Ecovacs R50 Ultra,159,2.9,361,4195,62,Yes,No,No,Camera,No,No,Yes,No,No,13,5.1,10.1,No,Yes,Yes,Yes,434
+Neato,Neato V98,151,5.5,454,5013,59,Yes,No,No,Camera,No,No,Yes,Yes,No,8,4.0,8.8,No,No,Yes,No,406
+Ecovacs,Ecovacs V53 Max,102,5.1,365,1870,63,No,Yes,Yes,Lidar,Yes,Yes,No,Yes,No,11,4.1,9.1,No,No,Yes,Yes,789
+Proscenic,Proscenic X14 Pro,88,3.0,533,2186,63,No,No,Yes,Camera,Yes,Yes,No,Yes,No,13,3.2,10.0,No,No,No,No,949
+Roborock,Roborock S63 Pro,64,5.4,687,3026,68,No,Yes,No,Infrared,Yes,Yes,No,Yes,Yes,16,3.9,8.5,No,Yes,Yes,Yes,786
+Xiaomi,Xiaomi S18 Max,147,3.1,462,3336,60,Yes,Yes,No,Lidar+Camera,No,Yes,Yes,No,No,11,3.8,7.5,No,Yes,No,Yes,586
+iRobot,iRobot V8 Pro,79,4.1,508,3230,63,Yes,Yes,No,Lidar+Camera,No,Yes,No,Yes,No,19,3.6,7.4,No,Yes,No,Yes,895
+Neato,Neato S78 Pro,160,4.3,511,3848,70,Yes,No,Yes,Lidar+Camera,No,Yes,No,No,Yes,10,3.3,7.7,No,No,No,No,181
+Eufy,Eufy R79 Ultra,79,5.4,489,4823,57,No,No,No,Camera,Yes,No,No,Yes,Yes,9,3.4,8.2,No,Yes,Yes,No,608
+Neato,Neato X89 Max,147,2.5,630,5272,67,No,No,No,Camera,No,Yes,No,No,No,16,3.9,9.7,No,Yes,No,Yes,645
+Neato,Neato V97,148,2.8,654,5631,57,Yes,No,Yes,Camera,No,No,No,No,Yes,19,2.6,8.2,Yes,No,Yes,Yes,683
+Ecovacs,Ecovacs S62 Ultra,68,4.6,564,2704,56,No,Yes,Yes,Lidar,No,Yes,Yes,No,No,20,5.0,10.9,No,Yes,No,Yes,439
+Eufy,Eufy R44,169,2.7,550,1555,64,No,No,Yes,Lidar+Camera,Yes,Yes,No,Yes,No,8,2.9,8.5,Yes,No,Yes,No,387
+Samsung,Samsung S32 Max,184,5.2,369,5762,67,Yes,No,Yes,Lidar,Yes,Yes,No,No,Yes,17,5.5,9.4,No,No,Yes,No,534
+Neato,Neato S41 Pro,189,5.4,661,3303,59,No,Yes,Yes,Camera,Yes,No,No,Yes,No,18,2.6,10.7,No,No,Yes,Yes,1037
+iRobot,iRobot X25 Ultra,134,4.4,695,1877,65,No,Yes,No,Lidar+Camera,Yes,Yes,No,No,Yes,17,5.2,8.0,Yes,No,Yes,Yes,690
+Eufy,Eufy R11 Ultra,172,2.9,491,2179,68,No,No,No,Lidar,No,No,Yes,Yes,No,9,4.2,8.7,No,No,No,No,362
+iRobot,iRobot R33 Ultra,106,4.3,641,4245,61,No,Yes,Yes,Lidar,Yes,No,No,No,No,6,2.9,9.3,No,No,Yes,Yes,289
+Dreame,Dreame X88 Pro,185,3.1,489,3539,60,No,No,No,Lidar,No,Yes,No,Yes,Yes,8,5.1,7.4,Yes,Yes,Yes,No,931
+Xiaomi,Xiaomi V15,180,3.7,399,2520,64,Yes,No,Yes,Lidar+Camera,No,No,Yes,Yes,No,14,4.1,9.8,No,No,No,Yes,374
+Proscenic,Proscenic S78 Pro,155,5.3,479,1834,67,No,Yes,Yes,Camera,Yes,No,No,Yes,Yes,14,3.2,10.8,No,Yes,No,No,920
+Xiaomi,Xiaomi V10 Max,121,4.3,695,1675,67,Yes,No,No,Lidar,No,No,Yes,Yes,No,10,3.5,9.7,No,No,Yes,No,558
+iRobot,iRobot V14 Max,179,4.7,442,2931,62,No,Yes,Yes,Lidar,No,No,No,Yes,Yes,7,4.9,9.9,No,No,Yes,No,305
+Samsung,Samsung V51 Ultra,129,4.1,696,4122,57,No,No,No,Lidar,No,No,No,Yes,Yes,13,4.5,8.4,No,No,Yes,No,183
+Xiaomi,Xiaomi X58,62,3.3,449,5121,68,No,No,Yes,Lidar,Yes,Yes,No,Yes,Yes,14,2.9,7.2,Yes,No,No,Yes,1168
+Ecovacs,Ecovacs X43 Max,168,3.7,482,2305,68,Yes,No,Yes,Lidar+Camera,No,No,Yes,Yes,Yes,13,5.0,9.3,Yes,No,Yes,Yes,274
+Neato,Neato S84,92,3.7,469,4512,59,Yes,No,Yes,Camera,Yes,Yes,No,Yes,Yes,14,3.7,9.9,No,No,Yes,Yes,915
+Proscenic,Proscenic S94 Pro,123,3.7,582,2029,67,No,Yes,Yes,Lidar,No,No,No,No,Yes,17,4.1,9.2,No,Yes,Yes,No,152
+Samsung,Samsung V8,107,5.1,594,3556,68,No,Yes,Yes,Lidar,No,Yes,No,Yes,No,15,4.0,7.7,No,No,No,No,219
+Eufy,Eufy X58 Ultra,86,3.5,633,2942,69,No,Yes,No,Camera,Yes,Yes,No,No,Yes,8,5.0,9.2,No,No,No,Yes,708
+LG,LG V8 Pro,197,5.1,421,1710,68,Yes,Yes,Yes,Infrared,No,Yes,Yes,No,No,8,4.3,9.4,Yes,Yes,Yes,Yes,236
+Proscenic,Proscenic V99,151,4.3,644,2853,62,Yes,Yes,No,Camera,Yes,No,No,Yes,No,9,3.0,9.6,Yes,No,No,No,1009
+LG,LG R88,63,4.9,581,2130,58,No,Yes,Yes,Lidar+Camera,No,Yes,No,Yes,Yes,15,3.2,7.2,Yes,No,No,Yes,872
+Proscenic,Proscenic X22 Max,64,2.7,535,3855,70,No,No,No,Lidar+Camera,No,No,No,Yes,No,16,5.2,8.1,No,Yes,No,Yes,800
+Samsung,Samsung X18 Max,97,4.0,359,3392,60,No,No,No,Infrared,Yes,Yes,No,No,No,20,4.3,9.3,Yes,Yes,Yes,No,275
+Neato,Neato R94 Max,96,6.0,659,4362,70,No,Yes,Yes,Camera,No,No,Yes,Yes,Yes,18,4.0,10.2,Yes,Yes,Yes,No,273
+LG,LG S49 Pro,75,2.7,685,5772,70,Yes,No,Yes,Infrared,No,No,No,No,Yes,11,4.5,9.9,No,No,No,No,721
+Samsung,Samsung V45 Ultra,145,4.0,351,1753,58,No,No,No,Lidar+Camera,No,No,Yes,No,No,13,4.4,10.4,No,No,No,Yes,219
+Neato,Neato V16 Ultra,157,5.0,616,2614,69,Yes,Yes,Yes,Camera,No,Yes,Yes,Yes,Yes,20,3.2,7.4,No,Yes,Yes,Yes,891
+Samsung,Samsung V65 Pro,197,4.3,439,4544,61,No,Yes,No,Infrared,Yes,No,Yes,No,Yes,16,3.8,11.0,No,Yes,No,No,823
+iRobot,iRobot V95,175,6.0,370,3863,62,Yes,Yes,No,Lidar,Yes,Yes,No,Yes,No,19,3.7,10.5,No,Yes,No,No,868
+Neato,Neato S12 Pro,162,2.6,447,4313,56,No,No,Yes,Lidar+Camera,Yes,Yes,No,Yes,Yes,15,3.9,8.1,Yes,Yes,Yes,Yes,427
+Neato,Neato R51 Pro,164,4.0,453,5640,55,Yes,Yes,Yes,Camera,Yes,Yes,Yes,No,No,19,3.2,8.1,No,No,No,Yes,425
+Xiaomi,Xiaomi X69 Ultra,170,2.7,686,3883,56,No,No,No,Lidar+Camera,Yes,No,No,No,No,14,5.1,8.3,Yes,Yes,Yes,No,844
+Xiaomi,Xiaomi X13 Ultra,189,5.7,498,4396,67,No,No,Yes,Infrared,Yes,No,No,Yes,No,16,5.4,7.6,No,No,No,Yes,307
+Proscenic,Proscenic R58 Max,159,2.8,691,3809,64,Yes,No,No,Camera,No,No,Yes,Yes,No,7,2.9,10.0,Yes,Yes,No,No,446
+Proscenic,Proscenic X30 Pro,165,3.9,632,2281,57,Yes,Yes,Yes,Camera,No,No,Yes,Yes,Yes,9,5.4,7.3,No,No,No,No,1149
+Roborock,Roborock X47 Ultra,131,2.9,534,2214,68,Yes,No,No,Lidar,No,Yes,Yes,Yes,Yes,12,3.0,8.3,Yes,Yes,No,No,921
+Proscenic,Proscenic V46 Ultra,135,5.0,636,5376,65,Yes,Yes,Yes,Infrared,Yes,No,No,No,No,14,2.8,8.1,No,No,Yes,No,540
+Roborock,Roborock S48,93,4.6,655,2034,63,Yes,No,Yes,Lidar,No,No,Yes,Yes,No,11,4.8,10.5,No,No,Yes,No,298
+Proscenic,Proscenic R96 Ultra,92,5.0,693,3380,66,No,No,Yes,Lidar,Yes,No,Yes,No,Yes,6,5.1,9.4,Yes,Yes,Yes,Yes,1071
+Dreame,Dreame X43 Ultra,159,3.2,403,2115,63,No,Yes,No,Lidar+Camera,No,No,Yes,No,No,8,3.8,10.0,Yes,No,No,Yes,888
+Dreame,Dreame R27 Max,102,6.0,621,2927,70,No,Yes,Yes,Lidar,No,No,Yes,No,No,20,5.4,10.0,No,No,No,Yes,874
+Ecovacs,Ecovacs V22 Pro,183,3.8,451,4016,67,No,Yes,No,Infrared,No,No,Yes,Yes,Yes,19,2.9,11.0,Yes,Yes,Yes,No,902
+Proscenic,Proscenic V60 Max,84,5.2,358,5291,70,No,No,Yes,Lidar,Yes,No,No,No,No,8,5.3,9.0,No,No,Yes,No,401
+Eufy,Eufy X54 Pro,182,5.4,533,5577,66,Yes,No,No,Lidar+Camera,Yes,No,Yes,No,Yes,10,5.1,8.8,No,No,Yes,Yes,710
+Samsung,Samsung V54,82,4.4,692,2884,61,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,No,6,5.3,9.5,Yes,No,Yes,No,665
+Proscenic,Proscenic S17 Max,67,3.3,581,1652,58,Yes,No,Yes,Infrared,No,Yes,No,No,No,12,4.0,10.6,No,Yes,No,Yes,688
+Ecovacs,Ecovacs X18,93,3.4,414,2556,66,Yes,Yes,Yes,Camera,No,No,Yes,No,No,10,4.4,9.5,No,No,No,No,877
+Samsung,Samsung S79 Pro,100,5.4,557,5551,58,Yes,Yes,No,Infrared,No,Yes,No,No,No,17,3.4,10.1,No,Yes,Yes,No,776
+Samsung,Samsung R95,142,4.2,535,5133,58,No,Yes,No,Lidar,No,No,No,No,Yes,8,4.1,8.9,No,No,No,Yes,757
+LG,LG R31 Ultra,90,5.3,670,5593,66,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,6,3.4,8.3,No,Yes,No,Yes,626
+Proscenic,Proscenic R12 Ultra,113,5.8,579,2879,63,Yes,Yes,Yes,Camera,Yes,Yes,Yes,No,No,18,5.5,7.1,No,No,Yes,No,649
+Eufy,Eufy S7,129,3.2,658,2534,61,No,No,Yes,Camera,No,Yes,Yes,No,No,9,3.5,10.2,No,No,Yes,Yes,997
+Eufy,Eufy S59 Ultra,93,3.3,632,3221,60,No,No,No,Infrared,No,No,Yes,Yes,Yes,19,3.2,8.0,Yes,No,No,Yes,850
+iRobot,iRobot R62 Ultra,140,5.4,478,4489,55,No,Yes,No,Lidar+Camera,No,No,No,Yes,No,16,4.6,10.2,No,No,Yes,No,476
+Neato,Neato X69 Ultra,174,3.4,690,5440,69,Yes,Yes,No,Lidar,No,No,No,Yes,Yes,17,3.3,8.5,No,Yes,Yes,Yes,640
+Neato,Neato V48 Ultra,71,3.7,516,2666,57,No,Yes,No,Infrared,Yes,Yes,No,No,No,7,4.7,7.9,Yes,Yes,Yes,Yes,491
+LG,LG V25 Ultra,181,2.7,626,1919,64,No,No,Yes,Lidar,Yes,No,No,Yes,No,6,4.6,9.3,No,No,Yes,No,799
+Ecovacs,Ecovacs S65,174,6.0,428,3905,63,No,No,No,Lidar+Camera,No,Yes,No,Yes,No,13,5.1,10.2,No,Yes,No,Yes,955
+Neato,Neato R75 Max,115,5.1,628,3232,70,No,No,Yes,Infrared,No,No,No,Yes,No,18,2.9,8.3,No,Yes,No,No,1105
+Ecovacs,Ecovacs S75 Pro,146,5.4,403,5808,60,Yes,No,Yes,Lidar,No,Yes,No,Yes,No,17,5.5,7.7,Yes,No,No,Yes,522
+Samsung,Samsung X31 Max,81,5.8,353,4379,63,No,No,Yes,Infrared,No,Yes,Yes,No,No,13,4.0,7.1,Yes,Yes,Yes,No,679
+Eufy,Eufy V73 Max,121,2.9,417,5211,57,No,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,16,4.2,8.8,No,No,No,Yes,323
+Samsung,Samsung R91 Pro,165,5.8,416,2759,62,No,Yes,Yes,Infrared,Yes,No,No,Yes,No,17,3.7,9.3,No,Yes,Yes,No,1163
+Proscenic,Proscenic S30 Max,102,4.8,671,2342,63,No,Yes,Yes,Infrared,No,Yes,No,Yes,Yes,7,2.9,8.0,No,No,No,No,788
+Roborock,Roborock S96 Pro,175,5.0,380,4820,67,No,No,Yes,Lidar,Yes,Yes,Yes,No,No,6,2.9,7.5,Yes,Yes,Yes,No,980
+Ecovacs,Ecovacs V73,188,3.6,480,1900,63,Yes,Yes,No,Lidar,Yes,Yes,No,No,No,7,4.5,7.0,No,Yes,No,No,999
+iRobot,iRobot S89,178,2.7,567,4394,58,No,No,No,Camera,Yes,No,No,Yes,No,19,2.6,10.9,Yes,Yes,No,Yes,649
+Proscenic,Proscenic X19,114,3.6,503,5974,62,No,Yes,No,Lidar,Yes,Yes,Yes,Yes,No,10,3.8,8.8,Yes,No,Yes,No,216
+Samsung,Samsung S50,197,5.6,383,2917,62,No,No,No,Infrared,No,No,Yes,Yes,Yes,13,4.0,8.3,No,Yes,Yes,No,278
+Proscenic,Proscenic V60 Max,112,5.7,466,2486,59,Yes,No,Yes,Lidar,No,No,Yes,Yes,No,7,3.1,9.1,No,Yes,No,Yes,723
+Dreame,Dreame X60,99,3.7,442,3866,55,Yes,Yes,No,Infrared,No,Yes,No,No,No,8,4.5,7.4,Yes,Yes,Yes,No,628
+Neato,Neato R33 Ultra,139,4.1,563,4240,68,No,No,No,Lidar+Camera,Yes,No,Yes,No,Yes,18,5.5,10.8,No,No,Yes,No,647
+Neato,Neato X92,97,3.2,357,3882,68,No,Yes,Yes,Infrared,Yes,No,Yes,No,No,11,4.9,10.7,No,Yes,No,Yes,446
+iRobot,iRobot R76,127,6.0,694,2603,57,No,Yes,Yes,Lidar+Camera,No,No,No,No,No,12,5.1,10.0,No,Yes,Yes,Yes,1058
+Roborock,Roborock S58 Max,177,5.5,455,5873,60,No,Yes,Yes,Lidar+Camera,No,No,Yes,Yes,Yes,12,5.4,8.2,Yes,No,Yes,No,868
+Samsung,Samsung S11 Ultra,143,5.1,437,1928,64,No,Yes,Yes,Camera,No,No,No,No,No,17,3.3,11.0,Yes,No,Yes,Yes,901
+Neato,Neato S37 Ultra,169,3.5,661,4474,70,Yes,No,No,Camera,Yes,Yes,Yes,Yes,Yes,19,5.3,8.5,Yes,Yes,Yes,Yes,540
+iRobot,iRobot V46,183,4.8,368,5017,68,Yes,Yes,No,Lidar,Yes,No,No,Yes,No,19,4.5,8.0,No,No,Yes,Yes,1115
+Eufy,Eufy X88 Ultra,179,2.8,538,2305,67,No,No,Yes,Lidar,No,Yes,No,Yes,No,16,5.0,9.8,Yes,Yes,Yes,No,498
+Samsung,Samsung V10 Max,195,5.1,614,3146,69,No,No,Yes,Lidar,Yes,No,No,Yes,No,20,3.9,7.3,Yes,No,Yes,Yes,903
+Roborock,Roborock R15 Max,71,4.7,561,1924,66,No,No,No,Camera,No,Yes,No,No,Yes,18,3.4,7.1,No,No,Yes,No,157
+Samsung,Samsung R10 Ultra,139,3.6,676,4634,59,Yes,No,No,Camera,Yes,Yes,No,No,No,9,4.3,8.8,No,No,No,No,481
+Roborock,Roborock S17 Pro,123,3.2,498,4589,60,No,Yes,Yes,Lidar+Camera,Yes,No,No,Yes,Yes,10,3.1,9.1,No,No,No,No,323
+LG,LG R44,148,4.7,539,5501,68,Yes,Yes,Yes,Lidar,Yes,No,Yes,Yes,No,11,2.6,10.2,Yes,No,Yes,No,444
+Xiaomi,Xiaomi X78,196,3.8,440,5700,56,No,Yes,No,Lidar+Camera,No,No,No,Yes,No,20,4.4,7.5,Yes,Yes,Yes,Yes,915
+Roborock,Roborock R73 Pro,118,3.3,524,3334,65,Yes,No,Yes,Camera,No,No,Yes,Yes,Yes,6,4.1,10.3,Yes,No,No,No,197
+Eufy,Eufy R77 Ultra,123,3.4,444,1712,67,No,Yes,Yes,Lidar,No,No,Yes,No,No,20,4.6,9.7,Yes,Yes,No,No,288
+Ecovacs,Ecovacs V63 Max,138,4.1,365,1832,64,Yes,Yes,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,12,5.0,10.5,Yes,No,No,Yes,908
+Roborock,Roborock R62 Max,128,4.2,560,3880,63,No,Yes,Yes,Lidar,No,Yes,Yes,No,Yes,10,2.5,7.6,Yes,Yes,No,No,821
+Roborock,Roborock R35 Ultra,74,3.0,646,3179,58,No,Yes,No,Lidar,Yes,No,Yes,Yes,No,16,4.3,10.9,Yes,Yes,No,No,252
+Neato,Neato R37 Pro,139,5.9,580,4995,68,Yes,Yes,Yes,Infrared,No,No,Yes,No,Yes,13,5.1,9.4,No,No,No,No,299
+Ecovacs,Ecovacs V81 Ultra,179,4.8,671,3130,63,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,No,19,4.9,9.1,No,No,No,Yes,412
+Eufy,Eufy X28 Pro,137,4.7,475,4928,66,No,Yes,No,Lidar,Yes,No,No,No,No,13,3.5,8.1,No,No,No,Yes,391
+Dreame,Dreame X81 Pro,181,5.9,457,2574,56,Yes,Yes,No,Lidar,Yes,No,No,No,Yes,13,5.3,9.3,No,No,No,No,390
+Neato,Neato V45 Ultra,174,3.1,651,4841,61,Yes,Yes,Yes,Infrared,No,Yes,Yes,No,No,16,3.3,10.4,Yes,No,Yes,No,443
+LG,LG S98 Pro,110,4.3,370,1910,64,No,No,No,Lidar,No,No,No,Yes,Yes,12,4.0,7.9,Yes,No,No,No,691
+Dreame,Dreame V35 Max,142,4.3,523,5741,57,No,No,No,Lidar+Camera,Yes,Yes,No,No,No,10,4.0,10.8,No,No,No,No,588
+Roborock,Roborock R91 Ultra,192,3.0,611,1792,59,No,Yes,Yes,Lidar,No,No,No,Yes,No,16,4.8,7.2,No,Yes,Yes,No,965
+Xiaomi,Xiaomi X61 Pro,188,6.0,541,3081,61,No,Yes,No,Lidar+Camera,No,Yes,No,No,Yes,17,2.7,10.6,Yes,No,Yes,Yes,888
+Samsung,Samsung V10 Pro,200,4.5,590,2321,69,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,17,3.0,7.2,No,No,No,Yes,1078
+Dreame,Dreame X36 Ultra,123,3.7,428,3073,63,No,No,Yes,Lidar+Camera,No,No,No,No,No,8,4.7,7.4,No,Yes,No,Yes,166
+Xiaomi,Xiaomi V41 Ultra,165,2.6,608,4460,65,Yes,Yes,Yes,Camera,No,No,Yes,No,No,14,4.0,7.4,Yes,No,Yes,Yes,742
+Neato,Neato V37 Max,140,4.1,409,3246,55,Yes,Yes,No,Camera,Yes,No,No,Yes,No,19,4.3,10.3,No,Yes,No,Yes,324
+Eufy,Eufy X29 Max,92,5.2,625,1771,62,No,No,No,Camera,Yes,Yes,Yes,Yes,No,20,5.0,10.4,No,Yes,Yes,No,651
+LG,LG V90 Pro,123,4.2,675,5445,66,No,Yes,Yes,Infrared,No,No,Yes,Yes,Yes,19,2.6,7.6,No,Yes,No,Yes,910
+iRobot,iRobot X59 Max,147,5.0,695,4792,63,Yes,Yes,Yes,Lidar+Camera,No,No,No,Yes,Yes,18,4.3,10.3,Yes,Yes,Yes,No,1008
+Dreame,Dreame S79 Ultra,179,5.1,616,5997,69,Yes,No,No,Lidar+Camera,Yes,No,Yes,No,Yes,6,3.2,7.4,No,No,Yes,No,294
+LG,LG R6,142,3.4,473,2227,70,No,Yes,No,Infrared,Yes,Yes,No,Yes,No,6,5.2,7.2,No,Yes,No,No,807
+iRobot,iRobot R6 Max,112,3.8,683,5404,63,Yes,No,No,Lidar+Camera,No,No,Yes,No,No,16,2.7,9.5,Yes,Yes,Yes,No,766
+Dreame,Dreame S92 Max,74,5.8,469,1656,64,No,Yes,No,Lidar,No,Yes,No,Yes,Yes,16,4.5,10.9,Yes,No,No,No,1074
+Proscenic,Proscenic S86 Pro,93,4.5,554,3434,57,Yes,Yes,No,Lidar,No,Yes,Yes,Yes,No,10,5.4,7.5,Yes,No,No,Yes,621
+Eufy,Eufy V81 Max,155,3.8,359,2370,67,No,Yes,No,Camera,No,No,Yes,No,Yes,11,4.6,7.4,No,Yes,Yes,Yes,1089
+LG,LG X50 Max,80,4.6,557,3881,62,Yes,No,No,Camera,Yes,No,No,No,No,17,4.6,8.4,No,Yes,Yes,No,614
+Neato,Neato S91,134,2.6,523,5096,70,Yes,No,No,Camera,No,No,Yes,No,Yes,14,4.0,9.0,No,Yes,No,Yes,640
+Roborock,Roborock X83 Ultra,123,5.4,638,2830,60,No,Yes,Yes,Infrared,No,Yes,No,No,No,16,3.4,8.4,Yes,No,No,Yes,424
+Roborock,Roborock X99 Max,99,4.3,514,5107,59,No,Yes,No,Infrared,Yes,Yes,No,No,No,8,3.5,8.3,No,Yes,No,Yes,1119
+Samsung,Samsung S41,93,5.9,538,2650,56,Yes,Yes,No,Lidar,No,No,No,Yes,No,12,3.6,7.4,No,Yes,No,No,244
+LG,LG R85 Pro,178,5.2,504,4315,58,No,Yes,No,Camera,Yes,No,No,Yes,No,13,4.3,10.8,Yes,No,Yes,Yes,164
+Roborock,Roborock X97 Ultra,89,3.1,464,2169,56,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,No,11,5.2,10.3,Yes,Yes,Yes,No,882
+Roborock,Roborock V72 Pro,144,4.1,593,2087,63,No,Yes,No,Camera,No,Yes,No,Yes,Yes,12,3.7,9.7,No,Yes,Yes,Yes,769
+Ecovacs,Ecovacs R23 Pro,84,2.9,556,4816,62,Yes,Yes,No,Lidar+Camera,Yes,No,No,No,Yes,19,3.1,10.3,No,Yes,Yes,Yes,299
+Xiaomi,Xiaomi S53 Max,171,4.8,586,2102,69,No,Yes,No,Lidar+Camera,Yes,Yes,No,No,Yes,17,4.6,10.1,Yes,Yes,No,Yes,902
+Dreame,Dreame S45 Ultra,200,4.3,639,5707,58,No,No,No,Lidar,Yes,Yes,No,No,Yes,11,3.7,7.9,No,No,No,Yes,505
+Samsung,Samsung R9,194,5.9,631,1743,62,Yes,No,No,Lidar+Camera,Yes,Yes,Yes,No,No,19,4.1,10.9,Yes,No,No,No,477
+Samsung,Samsung R60 Max,152,5.9,373,2649,66,No,Yes,No,Camera,Yes,Yes,Yes,No,Yes,8,4.1,9.5,Yes,No,No,No,683
+Roborock,Roborock R64 Ultra,195,3.7,700,4686,63,No,No,No,Camera,Yes,No,Yes,No,Yes,17,5.2,10.5,No,No,Yes,No,343
+Ecovacs,Ecovacs R77 Pro,70,5.1,569,3522,63,No,No,No,Camera,No,Yes,Yes,Yes,Yes,17,2.5,9.6,No,No,Yes,Yes,1055
+Xiaomi,Xiaomi X22 Max,91,3.4,548,1998,56,Yes,Yes,Yes,Lidar,Yes,Yes,No,Yes,Yes,20,4.9,10.5,No,No,Yes,No,272
+Roborock,Roborock R25 Ultra,185,5.6,653,2455,64,No,No,No,Camera,No,No,Yes,No,Yes,10,2.5,9.0,No,Yes,No,Yes,897
+Roborock,Roborock S89,145,3.7,496,1904,58,Yes,Yes,No,Camera,Yes,Yes,No,Yes,Yes,13,3.0,9.8,Yes,Yes,Yes,No,247
+Ecovacs,Ecovacs V74 Max,87,3.5,638,5352,62,No,Yes,Yes,Infrared,Yes,Yes,Yes,No,Yes,8,4.7,8.7,Yes,No,Yes,No,1198
+Roborock,Roborock S76 Max,171,2.6,621,2628,56,No,Yes,No,Lidar+Camera,No,Yes,Yes,Yes,Yes,9,5.0,10.7,No,No,No,Yes,526
+Dreame,Dreame S91 Ultra,141,2.5,350,5123,62,Yes,No,No,Camera,No,Yes,Yes,Yes,Yes,15,4.3,7.6,No,Yes,Yes,Yes,530
+iRobot,iRobot S62 Max,69,6.0,453,5760,70,No,No,Yes,Lidar,No,Yes,Yes,No,No,7,4.4,10.1,No,No,No,No,392
+Neato,Neato V73,139,4.3,670,5756,55,Yes,Yes,Yes,Camera,No,Yes,Yes,Yes,Yes,11,3.4,10.0,Yes,Yes,No,No,627
+Dreame,Dreame V11 Max,81,4.9,699,5676,62,Yes,Yes,No,Camera,Yes,Yes,No,No,Yes,6,4.2,7.6,No,No,Yes,Yes,456
+Xiaomi,Xiaomi R41 Pro,84,3.0,420,4176,70,No,No,Yes,Lidar+Camera,No,No,Yes,Yes,No,11,3.4,7.4,Yes,No,Yes,Yes,644
+Dreame,Dreame R55 Ultra,64,2.6,544,5427,58,No,Yes,No,Infrared,Yes,Yes,No,No,No,20,3.9,7.7,Yes,No,No,No,1152
+LG,LG S49 Pro,180,5.6,642,3475,58,Yes,Yes,Yes,Lidar,Yes,Yes,Yes,No,No,11,2.6,9.6,Yes,Yes,Yes,Yes,247
+Proscenic,Proscenic X50 Ultra,117,5.7,449,5375,65,No,Yes,No,Lidar,No,Yes,No,Yes,Yes,9,2.7,9.4,No,No,No,Yes,541
+LG,LG X67 Ultra,113,3.5,440,4972,61,No,No,Yes,Infrared,No,No,Yes,Yes,No,7,4.0,7.8,Yes,No,Yes,No,289
+Dreame,Dreame S75 Max,119,5.3,477,3411,66,Yes,No,No,Camera,No,No,No,No,Yes,11,4.0,9.0,Yes,Yes,No,No,1198
+Samsung,Samsung V48 Ultra,70,4.0,500,5110,56,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,13,3.4,10.3,Yes,No,Yes,No,435
+Eufy,Eufy S37 Ultra,178,3.4,650,4567,67,Yes,Yes,No,Camera,No,Yes,Yes,Yes,Yes,10,3.7,8.4,Yes,Yes,No,No,651
+Proscenic,Proscenic V79 Pro,162,4.5,451,4547,68,No,Yes,No,Infrared,Yes,No,No,No,No,14,3.1,9.7,No,No,No,Yes,970
+Eufy,Eufy S95 Max,70,4.0,592,4049,62,No,No,Yes,Lidar+Camera,Yes,No,Yes,No,No,10,2.7,9.2,No,No,Yes,No,408
+Xiaomi,Xiaomi V45 Pro,164,3.0,402,3610,59,Yes,Yes,No,Infrared,No,Yes,No,No,No,9,3.7,7.9,Yes,No,No,Yes,1076
+Ecovacs,Ecovacs X10,87,2.9,692,4660,67,Yes,No,No,Lidar,Yes,No,No,No,Yes,16,5.0,8.3,Yes,No,No,No,307
+Xiaomi,Xiaomi V46 Pro,95,4.3,700,5956,56,Yes,Yes,Yes,Camera,No,Yes,Yes,No,No,7,4.3,10.8,No,No,No,Yes,467
+Neato,Neato V73 Ultra,150,3.7,353,4345,56,No,No,No,Lidar,Yes,Yes,No,No,Yes,14,4.4,9.3,Yes,No,No,Yes,418
+Neato,Neato V16,131,6.0,477,5679,66,No,Yes,No,Lidar,No,No,Yes,Yes,No,18,5.0,8.2,No,No,No,Yes,627
+Roborock,Roborock R89 Ultra,132,3.0,365,2964,57,Yes,Yes,No,Lidar,Yes,No,No,Yes,No,11,3.9,8.3,Yes,Yes,No,No,424
+Eufy,Eufy R17,196,5.2,632,4375,69,Yes,No,No,Lidar,No,Yes,No,Yes,Yes,17,3.1,7.1,No,Yes,Yes,Yes,822
+LG,LG R94 Pro,123,5.8,565,4736,66,No,Yes,No,Camera,No,Yes,No,No,No,15,3.3,8.2,No,No,No,Yes,726
+Dreame,Dreame S10 Max,156,2.9,675,3020,66,No,Yes,No,Lidar+Camera,No,No,Yes,No,No,16,2.9,8.3,Yes,No,No,No,949
+Xiaomi,Xiaomi V51 Pro,90,4.8,634,2881,70,Yes,No,No,Camera,Yes,Yes,Yes,No,No,9,3.5,7.3,Yes,No,Yes,No,598
+Samsung,Samsung S25 Ultra,177,5.8,504,4713,68,Yes,Yes,Yes,Infrared,Yes,Yes,Yes,No,No,8,3.7,10.6,No,No,No,Yes,338
+Eufy,Eufy X20,186,3.2,411,2384,55,No,No,No,Infrared,No,No,No,Yes,Yes,9,3.9,7.9,No,Yes,Yes,Yes,780
+Dreame,Dreame S30 Ultra,124,4.3,697,3621,68,No,Yes,No,Lidar,No,Yes,Yes,No,Yes,9,2.6,9.0,No,Yes,Yes,Yes,782
+iRobot,iRobot S49 Ultra,150,3.1,514,2626,65,No,Yes,No,Lidar+Camera,No,No,No,No,Yes,11,4.8,10.4,No,No,No,No,581
+Proscenic,Proscenic S85,106,5.5,552,3505,70,Yes,Yes,Yes,Infrared,No,No,No,Yes,No,13,4.2,10.5,Yes,Yes,No,No,1083
+Xiaomi,Xiaomi X69 Pro,144,4.9,596,5277,66,No,No,No,Camera,No,Yes,Yes,Yes,No,9,3.6,10.5,Yes,No,Yes,Yes,237
+Neato,Neato V29 Pro,124,3.7,685,2432,65,Yes,Yes,No,Lidar,Yes,Yes,No,No,No,18,3.8,7.9,Yes,Yes,Yes,Yes,325
+Roborock,Roborock R69,83,3.0,405,1992,55,Yes,Yes,Yes,Lidar,No,Yes,Yes,Yes,No,15,5.3,9.9,No,No,Yes,Yes,262
+iRobot,iRobot R45 Max,193,5.2,602,2666,56,Yes,No,Yes,Infrared,No,No,Yes,Yes,Yes,13,5.1,7.3,No,No,Yes,Yes,1099
+Neato,Neato S6 Ultra,89,5.3,475,4110,55,Yes,Yes,Yes,Camera,No,No,No,Yes,Yes,11,4.2,9.9,No,Yes,Yes,No,644
+Roborock,Roborock X16 Max,179,5.4,469,3602,60,Yes,Yes,Yes,Lidar,No,No,Yes,Yes,No,20,4.4,7.4,No,Yes,Yes,No,817
+Dreame,Dreame R61,174,3.3,525,5347,57,Yes,No,Yes,Lidar,Yes,No,Yes,Yes,Yes,14,4.6,7.4,No,Yes,Yes,No,549
+iRobot,iRobot S90 Pro,70,3.9,468,1718,61,No,No,Yes,Camera,No,Yes,No,Yes,No,17,3.1,7.7,No,No,Yes,No,871
+Xiaomi,Xiaomi X76 Pro,110,5.4,350,5615,63,Yes,Yes,Yes,Lidar,No,No,No,Yes,No,16,2.5,8.9,Yes,No,No,Yes,384
+Roborock,Roborock V46,148,3.4,573,3634,56,Yes,No,Yes,Lidar+Camera,No,No,Yes,No,Yes,10,5.5,9.4,Yes,Yes,Yes,No,925
+Ecovacs,Ecovacs X32 Ultra,100,3.6,488,4353,68,No,No,No,Lidar,Yes,Yes,No,Yes,No,8,4.0,10.3,No,No,No,No,1025
+Neato,Neato R31 Ultra,177,5.9,683,1689,66,Yes,No,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,18,2.7,9.2,No,Yes,Yes,Yes,346
+Proscenic,Proscenic X28 Pro,99,4.3,439,5285,60,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,16,3.8,9.4,No,Yes,Yes,Yes,390
+Ecovacs,Ecovacs R11 Pro,100,2.5,572,5100,57,Yes,Yes,No,Infrared,No,No,Yes,No,No,10,3.7,9.0,No,No,No,Yes,1029
+Neato,Neato X71 Max,135,3.7,556,3208,66,Yes,No,No,Lidar+Camera,No,No,No,No,Yes,10,5.4,9.4,No,Yes,No,No,1157
+Xiaomi,Xiaomi X95 Max,112,6.0,500,4609,61,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,No,14,4.6,7.1,Yes,Yes,No,No,562
+iRobot,iRobot S41 Pro,187,5.7,375,4139,55,No,Yes,Yes,Lidar+Camera,Yes,No,No,Yes,Yes,18,2.9,10.4,Yes,Yes,No,No,949
+Eufy,Eufy X94 Ultra,175,5.8,504,3186,64,Yes,No,No,Lidar+Camera,Yes,Yes,No,No,No,18,4.5,9.7,No,No,No,No,1118
+Eufy,Eufy S28 Ultra,179,4.3,392,2633,63,Yes,Yes,Yes,Infrared,Yes,Yes,Yes,No,No,11,3.5,8.6,No,No,Yes,Yes,1034
+LG,LG X16 Pro,175,4.0,558,3254,66,No,Yes,No,Lidar+Camera,No,No,No,Yes,Yes,6,5.0,9.0,Yes,No,Yes,Yes,1013
+Eufy,Eufy V51 Max,199,3.4,480,2081,57,Yes,No,No,Camera,No,Yes,Yes,No,No,10,4.1,9.3,No,No,Yes,Yes,707
+Dreame,Dreame X5 Ultra,75,5.3,444,2848,58,No,No,Yes,Infrared,Yes,Yes,Yes,Yes,No,17,3.3,9.4,Yes,Yes,No,Yes,821
+Ecovacs,Ecovacs S7 Ultra,90,3.3,543,1542,66,No,Yes,Yes,Infrared,Yes,Yes,Yes,Yes,No,14,4.1,9.3,No,No,Yes,No,1084
+Dreame,Dreame R83,140,3.6,531,3021,64,Yes,No,No,Camera,No,No,No,Yes,No,20,4.3,10.4,No,Yes,No,Yes,773
+Roborock,Roborock R36 Ultra,162,4.6,501,4213,66,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,18,4.3,7.3,No,Yes,Yes,Yes,224
+Ecovacs,Ecovacs V57,200,5.1,490,2442,62,Yes,No,No,Lidar+Camera,No,No,No,Yes,No,6,3.6,9.2,No,Yes,No,Yes,1200
+Dreame,Dreame X77 Max,129,4.4,432,5213,67,No,Yes,No,Lidar,Yes,No,No,Yes,Yes,6,3.9,8.6,Yes,Yes,Yes,Yes,1108
+Samsung,Samsung V49 Pro,130,5.8,557,2426,63,Yes,Yes,Yes,Infrared,No,No,No,No,No,17,4.2,9.3,No,Yes,No,No,889
+Neato,Neato V19 Max,61,4.5,586,5847,62,No,Yes,No,Lidar,Yes,Yes,Yes,No,No,14,4.1,8.1,Yes,Yes,No,No,897
+Ecovacs,Ecovacs S93 Ultra,187,2.9,443,4516,60,No,Yes,Yes,Camera,Yes,Yes,No,No,No,14,5.1,10.2,No,Yes,Yes,Yes,281
+Dreame,Dreame V40 Ultra,146,3.5,528,5646,58,Yes,Yes,Yes,Lidar+Camera,No,Yes,Yes,Yes,Yes,10,5.2,9.3,Yes,Yes,Yes,Yes,495
+Neato,Neato X61 Max,110,2.7,603,5327,65,No,No,No,Lidar,Yes,No,Yes,No,No,18,4.6,10.5,Yes,No,Yes,No,918
+Ecovacs,Ecovacs R42,119,2.6,664,4352,66,Yes,No,Yes,Camera,Yes,No,No,No,No,8,5.1,9.2,Yes,Yes,Yes,Yes,1133
+Ecovacs,Ecovacs X90 Max,101,4.6,650,4125,63,Yes,No,Yes,Infrared,No,No,No,Yes,No,17,3.8,9.1,No,No,Yes,Yes,1069
+Dreame,Dreame R54 Max,72,5.1,478,3252,59,Yes,No,No,Infrared,Yes,No,Yes,Yes,No,19,2.6,7.3,Yes,Yes,Yes,No,1122
+Samsung,Samsung V45,97,5.5,498,4261,67,No,No,No,Infrared,Yes,Yes,No,No,No,15,5.0,7.2,Yes,No,Yes,Yes,433
+iRobot,iRobot V93,90,5.5,620,1548,58,No,Yes,No,Lidar,Yes,Yes,Yes,Yes,No,14,3.4,8.6,No,No,Yes,No,522
+Dreame,Dreame X25 Pro,122,3.8,395,5341,68,Yes,No,Yes,Infrared,No,No,No,Yes,Yes,16,4.9,10.9,No,No,No,Yes,815
+LG,LG R78 Max,195,5.1,456,4788,61,Yes,No,Yes,Lidar,No,Yes,No,No,No,20,4.8,8.3,No,Yes,No,No,531
+Ecovacs,Ecovacs V94 Pro,112,5.3,469,4979,55,Yes,Yes,Yes,Lidar+Camera,No,No,No,Yes,Yes,18,3.1,7.4,No,No,Yes,Yes,463
+Samsung,Samsung S36 Pro,136,3.8,355,2783,55,No,No,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,12,2.5,7.9,Yes,No,No,No,299
+LG,LG X39 Pro,69,2.6,355,2366,64,No,Yes,Yes,Camera,Yes,Yes,No,No,Yes,17,5.2,10.7,Yes,No,No,Yes,350
+Ecovacs,Ecovacs V79,189,4.0,458,4153,67,No,No,Yes,Infrared,No,No,Yes,Yes,Yes,7,3.2,8.5,No,Yes,No,Yes,449
+Roborock,Roborock X51 Pro,139,3.9,693,1833,57,Yes,No,Yes,Infrared,No,No,No,No,Yes,19,4.7,9.2,No,No,No,No,1038
+Dreame,Dreame S99,144,5.6,476,3462,61,No,No,No,Lidar+Camera,No,No,No,Yes,Yes,7,3.7,9.8,No,No,Yes,No,1193
+Samsung,Samsung R74 Ultra,191,5.0,446,4470,66,No,No,No,Lidar,Yes,Yes,No,No,No,18,3.0,10.7,Yes,No,Yes,No,386
+Eufy,Eufy R12,199,4.7,596,4336,69,Yes,Yes,Yes,Camera,Yes,Yes,No,No,Yes,16,4.1,10.2,Yes,No,Yes,No,166
+Neato,Neato S69,174,3.2,531,2236,56,No,No,No,Lidar,No,No,No,Yes,No,15,4.5,7.8,Yes,Yes,Yes,Yes,1103
+Ecovacs,Ecovacs R33 Ultra,66,2.7,526,2617,64,No,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,14,4.9,8.3,Yes,Yes,No,No,782
+Roborock,Roborock S26,194,5.0,647,4842,60,No,No,Yes,Camera,Yes,Yes,Yes,Yes,No,10,4.0,7.2,No,Yes,No,Yes,465
+Proscenic,Proscenic V60,110,5.7,567,2663,55,Yes,No,Yes,Infrared,No,Yes,Yes,No,No,19,3.0,8.9,Yes,No,Yes,Yes,713
+iRobot,iRobot V19,190,5.9,516,1679,63,Yes,Yes,No,Camera,No,No,Yes,Yes,Yes,6,3.0,9.1,No,No,No,Yes,905
+LG,LG R71,115,4.7,364,2942,64,No,Yes,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,10,4.2,9.0,Yes,No,No,No,900
+Xiaomi,Xiaomi V58,89,4.7,370,2972,61,Yes,Yes,Yes,Lidar+Camera,No,Yes,No,No,Yes,7,3.3,7.1,Yes,Yes,No,No,387
+Roborock,Roborock X46 Ultra,139,5.4,356,3955,61,No,No,No,Infrared,No,No,No,Yes,Yes,15,3.9,10.2,No,No,No,Yes,304
+Neato,Neato S14,183,5.5,457,1640,65,No,No,Yes,Infrared,Yes,No,No,Yes,No,20,2.9,8.3,Yes,Yes,Yes,Yes,892
+Ecovacs,Ecovacs S37,147,4.0,440,5459,65,No,Yes,No,Lidar+Camera,No,No,No,No,No,19,3.6,9.0,No,No,No,No,1074
+LG,LG S64 Pro,76,3.0,511,4111,58,No,No,No,Infrared,Yes,Yes,No,Yes,No,17,4.3,8.5,No,No,No,Yes,963
+Dreame,Dreame X32,178,4.9,384,5180,69,Yes,No,No,Infrared,Yes,No,Yes,Yes,Yes,18,5.1,7.1,No,No,No,Yes,946
+Neato,Neato X64 Ultra,69,3.4,374,1903,58,Yes,No,Yes,Infrared,No,Yes,Yes,Yes,Yes,9,3.2,10.3,No,No,Yes,Yes,1109
+Xiaomi,Xiaomi R65 Pro,181,5.1,552,2003,56,Yes,No,Yes,Lidar+Camera,No,Yes,No,Yes,Yes,15,3.0,9.0,Yes,Yes,No,Yes,293
+Proscenic,Proscenic X99 Pro,74,5.0,351,3308,60,No,Yes,Yes,Camera,No,No,Yes,No,Yes,17,3.1,10.4,No,No,No,No,373
+Samsung,Samsung V45,83,3.2,697,3008,70,No,No,Yes,Lidar,Yes,No,No,Yes,Yes,11,3.5,7.0,No,Yes,Yes,Yes,860
+LG,LG V22 Pro,132,4.1,559,1878,66,Yes,Yes,Yes,Infrared,No,Yes,Yes,No,No,20,5.0,8.9,No,No,Yes,No,476
+Eufy,Eufy V74 Pro,88,3.2,615,5434,62,No,No,No,Lidar+Camera,Yes,Yes,No,Yes,Yes,17,5.2,10.1,No,Yes,Yes,Yes,259
+Samsung,Samsung V78 Pro,135,4.4,544,3036,68,No,Yes,No,Infrared,No,No,Yes,Yes,Yes,9,5.2,10.6,Yes,No,Yes,No,865
+Proscenic,Proscenic R94 Max,198,4.0,351,3015,67,No,Yes,Yes,Lidar,Yes,Yes,Yes,Yes,No,18,5.0,9.9,No,No,Yes,No,235
+LG,LG X35 Ultra,186,5.1,360,2504,58,No,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,11,4.9,7.6,No,No,Yes,Yes,1115
+Proscenic,Proscenic X63,116,3.4,578,1563,61,No,No,No,Lidar+Camera,No,No,Yes,Yes,Yes,16,3.9,8.2,Yes,Yes,Yes,Yes,980
+Ecovacs,Ecovacs S58 Ultra,81,2.9,419,3100,67,Yes,No,No,Infrared,Yes,No,Yes,No,Yes,15,3.8,10.9,No,Yes,Yes,Yes,1112
+Dreame,Dreame S33 Ultra,181,5.1,608,3013,67,Yes,No,Yes,Infrared,Yes,No,Yes,No,No,15,2.7,9.0,Yes,No,Yes,No,747
+iRobot,iRobot V95,62,5.2,526,3723,60,Yes,No,Yes,Lidar,No,No,Yes,Yes,Yes,17,4.5,10.2,No,Yes,No,Yes,838
+Samsung,Samsung V89,173,5.3,520,5630,59,No,No,No,Lidar+Camera,No,Yes,Yes,Yes,Yes,11,5.2,9.7,No,No,Yes,No,202
+iRobot,iRobot X87 Ultra,187,4.9,381,2783,67,No,Yes,Yes,Lidar+Camera,No,No,Yes,No,No,9,3.4,10.2,No,No,Yes,Yes,724
+iRobot,iRobot S57,156,5.5,490,3768,57,Yes,No,Yes,Lidar,Yes,Yes,No,Yes,Yes,19,2.6,7.3,No,Yes,No,Yes,574
+Neato,Neato S42 Ultra,98,4.2,480,1645,62,Yes,Yes,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,15,2.6,11.0,No,Yes,Yes,No,821
+Eufy,Eufy X44,134,4.0,682,3988,68,Yes,No,No,Lidar,Yes,No,Yes,No,No,15,4.8,7.7,No,No,No,Yes,220
+Roborock,Roborock X31 Pro,166,5.0,528,4728,59,Yes,Yes,No,Camera,Yes,Yes,No,No,No,13,2.8,8.8,No,Yes,No,No,347
+LG,LG S47 Pro,124,2.7,369,5572,65,No,No,Yes,Lidar+Camera,No,Yes,No,No,Yes,11,3.2,9.5,Yes,Yes,No,No,982
+Proscenic,Proscenic X69 Pro,136,4.1,422,3088,68,No,Yes,Yes,Camera,No,Yes,Yes,Yes,Yes,12,3.2,8.8,Yes,Yes,Yes,No,522
+Neato,Neato R50 Ultra,74,5.8,673,2704,64,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,Yes,6,3.8,8.0,No,Yes,No,Yes,821
+Samsung,Samsung S97 Ultra,80,3.1,602,1707,62,No,Yes,No,Lidar,Yes,No,Yes,No,No,15,4.9,9.7,Yes,Yes,Yes,Yes,594
+Dreame,Dreame X62 Ultra,149,4.1,697,3302,55,Yes,No,No,Lidar+Camera,No,Yes,Yes,No,No,18,5.4,10.7,No,Yes,No,Yes,401
+Samsung,Samsung S15 Pro,111,4.3,428,3285,59,No,No,Yes,Lidar+Camera,Yes,Yes,No,Yes,No,6,3.7,7.5,Yes,Yes,No,No,417
+Dreame,Dreame R30 Ultra,136,4.9,581,1634,57,No,Yes,No,Lidar,No,Yes,Yes,No,Yes,9,5.0,10.6,No,Yes,Yes,Yes,969
+Proscenic,Proscenic S84 Max,151,2.7,661,3003,64,Yes,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,19,2.6,7.7,Yes,No,Yes,No,601
+LG,LG X32 Pro,127,4.0,627,4788,59,No,No,No,Lidar+Camera,No,No,Yes,No,Yes,7,4.5,8.2,No,No,Yes,Yes,477
+Roborock,Roborock X9 Ultra,172,5.4,458,2404,65,Yes,No,No,Lidar,No,No,No,Yes,No,19,4.4,8.5,Yes,No,No,No,1191
+LG,LG R51 Max,178,4.2,458,5887,61,Yes,No,No,Infrared,No,Yes,Yes,No,Yes,7,3.4,8.8,Yes,Yes,No,No,597
+Roborock,Roborock R49,191,3.8,368,4234,68,Yes,Yes,No,Camera,Yes,No,No,No,Yes,17,3.9,9.5,Yes,No,Yes,Yes,775
+Ecovacs,Ecovacs V23 Ultra,95,4.4,611,3235,63,No,Yes,No,Camera,Yes,Yes,No,Yes,Yes,18,4.0,7.6,Yes,No,No,Yes,345
+iRobot,iRobot X53 Ultra,181,4.7,568,3644,68,No,No,Yes,Infrared,No,No,Yes,Yes,Yes,10,2.7,7.9,Yes,No,Yes,No,993
+Dreame,Dreame S61 Max,179,5.0,677,4258,66,Yes,No,Yes,Lidar+Camera,Yes,No,No,No,Yes,17,3.6,9.6,Yes,No,No,No,224
+Samsung,Samsung X5 Ultra,140,5.9,590,1765,57,No,No,No,Lidar,Yes,Yes,No,Yes,Yes,13,5.3,9.2,No,Yes,No,No,527
+Eufy,Eufy S94 Ultra,120,5.0,667,5864,60,Yes,Yes,Yes,Lidar+Camera,No,No,No,No,No,20,3.3,9.0,Yes,Yes,No,No,190
+Neato,Neato R24,94,5.1,411,2616,65,Yes,Yes,Yes,Camera,No,Yes,No,No,No,12,5.1,7.0,Yes,No,Yes,Yes,229
+LG,LG R77 Pro,192,4.1,483,3817,69,Yes,Yes,No,Infrared,No,No,Yes,Yes,Yes,11,3.0,8.5,No,Yes,Yes,No,899
+LG,LG R35 Ultra,151,3.6,511,2108,68,Yes,Yes,Yes,Lidar,Yes,Yes,Yes,Yes,Yes,14,5.3,10.2,No,No,Yes,Yes,1128
+Roborock,Roborock V66 Pro,105,5.7,539,2936,70,No,Yes,No,Lidar+Camera,Yes,No,No,Yes,Yes,9,4.5,10.5,No,Yes,No,Yes,374
+LG,LG S14,175,5.1,630,2299,56,No,No,No,Infrared,No,Yes,Yes,No,Yes,19,5.2,10.6,No,Yes,Yes,Yes,825
+LG,LG V18,82,2.8,402,2491,68,Yes,Yes,Yes,Camera,No,Yes,Yes,Yes,Yes,17,5.3,8.9,Yes,Yes,No,Yes,289
+Ecovacs,Ecovacs R92 Max,125,3.9,568,5052,55,No,Yes,No,Lidar,No,No,No,Yes,No,16,4.1,10.1,Yes,No,Yes,Yes,231
+Eufy,Eufy R49 Max,139,5.9,468,5703,67,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,Yes,18,5.5,9.0,No,Yes,No,No,1006
+iRobot,iRobot V86 Ultra,62,5.6,582,2834,56,No,No,No,Infrared,Yes,Yes,Yes,No,Yes,13,4.8,8.6,Yes,No,Yes,No,564
+Eufy,Eufy X38 Pro,110,3.6,464,1838,58,No,Yes,No,Infrared,Yes,No,No,No,Yes,11,3.0,9.9,Yes,Yes,Yes,No,372
+iRobot,iRobot R80 Pro,137,3.6,439,4770,62,Yes,No,Yes,Lidar+Camera,No,Yes,No,No,Yes,9,3.4,7.7,No,No,No,Yes,1098
+Neato,Neato R91 Max,79,5.9,600,5681,61,Yes,Yes,No,Camera,No,No,Yes,No,No,8,3.3,9.0,Yes,No,Yes,Yes,479
+Xiaomi,Xiaomi R72 Ultra,150,5.3,385,5197,67,No,Yes,Yes,Camera,Yes,No,Yes,No,Yes,10,4.1,9.8,Yes,No,Yes,Yes,624
+Samsung,Samsung X86 Max,148,5.5,398,3832,61,No,Yes,Yes,Infrared,No,Yes,No,Yes,No,8,5.1,7.8,No,No,No,No,739
+LG,LG X83,157,2.9,616,1725,55,No,Yes,No,Lidar,No,No,No,No,No,15,3.6,9.1,No,Yes,Yes,No,710
+Dreame,Dreame V10 Ultra,169,3.5,381,1571,65,Yes,No,No,Lidar+Camera,No,Yes,No,Yes,No,6,3.7,10.1,Yes,Yes,Yes,No,1012
+Samsung,Samsung V13 Pro,140,3.5,521,3753,63,Yes,No,No,Lidar,No,No,Yes,No,Yes,8,3.7,7.8,Yes,Yes,No,No,813
+Samsung,Samsung S27,114,2.5,400,3791,66,No,Yes,Yes,Camera,No,No,Yes,Yes,No,16,3.5,10.9,No,Yes,No,No,383
+Samsung,Samsung V41 Pro,135,5.8,540,2061,64,No,Yes,Yes,Lidar+Camera,No,Yes,Yes,No,No,15,3.5,7.5,No,No,Yes,Yes,860
+Ecovacs,Ecovacs R46 Pro,119,4.8,608,2156,68,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,18,5.2,10.1,Yes,No,No,No,495
+Xiaomi,Xiaomi V28 Ultra,97,5.3,675,4658,62,No,Yes,No,Infrared,Yes,No,No,Yes,Yes,19,3.7,8.8,Yes,No,No,No,494
+Xiaomi,Xiaomi V53,171,5.3,436,5592,56,Yes,No,No,Infrared,No,No,No,No,No,14,4.2,10.3,No,No,Yes,Yes,697
+iRobot,iRobot X94 Pro,98,2.9,693,4807,64,Yes,Yes,No,Lidar,Yes,Yes,No,No,Yes,8,4.4,9.8,No,No,No,No,401
+Ecovacs,Ecovacs R23 Ultra,196,2.8,445,4292,55,Yes,No,No,Camera,No,No,Yes,No,Yes,13,4.4,7.4,Yes,Yes,Yes,No,1054
+iRobot,iRobot X39 Pro,128,3.8,669,4106,58,Yes,Yes,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,15,4.0,7.4,Yes,Yes,No,Yes,705
+Xiaomi,Xiaomi S84 Ultra,64,3.9,588,5187,59,Yes,No,No,Lidar,No,Yes,No,Yes,No,10,3.5,10.3,Yes,No,Yes,Yes,816
+Dreame,Dreame S44 Ultra,99,4.9,481,2830,68,Yes,Yes,No,Lidar+Camera,No,No,No,Yes,No,8,4.4,10.6,Yes,Yes,Yes,Yes,1195
+LG,LG X30,187,5.2,356,2247,63,Yes,No,Yes,Camera,No,Yes,No,No,Yes,9,2.8,10.9,No,No,No,No,897
+LG,LG R81,79,3.0,418,3695,64,Yes,Yes,No,Camera,No,No,No,Yes,No,18,5.0,7.8,No,No,No,No,1129
+Eufy,Eufy R56 Max,110,4.5,576,4990,56,No,No,No,Camera,No,Yes,Yes,Yes,No,9,3.4,7.5,No,No,Yes,No,1049
+Xiaomi,Xiaomi X18 Max,92,4.3,699,5869,56,Yes,Yes,Yes,Infrared,No,No,No,Yes,Yes,14,2.8,9.4,No,No,No,Yes,581
+iRobot,iRobot R78 Ultra,105,4.2,695,1717,58,No,Yes,Yes,Lidar,No,Yes,Yes,No,Yes,15,5.2,8.3,No,No,Yes,No,209
+Eufy,Eufy V30 Max,65,3.6,448,2806,60,No,Yes,Yes,Lidar,Yes,No,No,No,No,16,3.0,7.5,Yes,Yes,No,No,1187
+iRobot,iRobot X10 Max,175,4.7,605,1720,55,Yes,No,No,Lidar,No,No,Yes,No,Yes,13,4.6,7.7,Yes,Yes,No,No,429
+Xiaomi,Xiaomi R53 Ultra,84,2.6,372,2562,65,No,No,Yes,Lidar+Camera,No,No,Yes,Yes,No,18,3.5,7.7,No,No,No,No,231
+Dreame,Dreame R31 Max,178,5.6,494,5518,64,Yes,No,Yes,Infrared,Yes,No,Yes,No,Yes,8,2.7,9.7,Yes,Yes,No,No,368
+Dreame,Dreame V42 Ultra,119,2.6,481,2076,63,No,Yes,No,Lidar,Yes,No,Yes,No,No,8,4.0,9.6,Yes,Yes,Yes,No,975
+LG,LG V29 Max,192,3.9,615,2577,69,No,Yes,Yes,Infrared,Yes,No,Yes,Yes,No,13,2.7,10.6,Yes,Yes,No,Yes,1122
+LG,LG R69 Max,132,3.8,584,1904,67,No,Yes,Yes,Camera,No,Yes,No,No,Yes,17,4.6,7.5,Yes,Yes,Yes,No,592
+Proscenic,Proscenic S89 Pro,60,5.0,543,5238,67,Yes,No,No,Infrared,Yes,No,No,Yes,Yes,13,3.1,8.0,No,Yes,Yes,No,1135
+Dreame,Dreame V88,123,4.7,506,2713,69,No,No,No,Lidar,No,No,No,No,Yes,18,3.8,9.4,No,Yes,Yes,Yes,1043
+Ecovacs,Ecovacs S57,200,5.8,441,4046,66,Yes,Yes,Yes,Infrared,No,No,No,Yes,No,20,5.3,8.4,Yes,Yes,Yes,Yes,407
+Neato,Neato X75 Pro,94,2.8,479,5818,55,Yes,Yes,No,Lidar,No,No,No,No,Yes,6,4.6,7.5,No,No,No,No,1172
+Proscenic,Proscenic S64 Max,154,4.0,575,3570,63,Yes,No,No,Camera,No,No,Yes,Yes,Yes,14,4.7,8.4,No,No,Yes,Yes,983
+Eufy,Eufy X58 Max,102,3.8,517,1868,61,Yes,Yes,No,Lidar,Yes,No,Yes,Yes,No,20,4.9,10.7,No,No,Yes,No,993
+Proscenic,Proscenic X7 Ultra,127,5.9,603,5284,64,Yes,No,No,Lidar,No,No,No,Yes,No,10,4.1,10.1,No,Yes,Yes,Yes,433
+iRobot,iRobot S76 Max,87,3.3,661,3978,69,Yes,Yes,No,Lidar+Camera,Yes,No,No,No,Yes,6,5.5,8.5,No,Yes,Yes,Yes,718
+Eufy,Eufy S51 Ultra,103,5.7,663,5006,70,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,No,Yes,No,14,3.1,9.6,No,No,No,No,651
+Eufy,Eufy V21,166,3.5,544,3630,64,Yes,No,Yes,Lidar+Camera,Yes,Yes,No,No,Yes,10,4.2,8.4,No,Yes,No,No,1068
+LG,LG R94 Ultra,95,4.6,573,5124,55,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,No,Yes,14,2.6,9.0,No,No,Yes,No,1193
+Xiaomi,Xiaomi X52 Pro,154,2.7,484,1891,62,No,No,No,Camera,Yes,Yes,No,No,Yes,19,4.2,9.9,Yes,No,Yes,No,514
+Roborock,Roborock R51 Ultra,136,4.3,482,2821,63,No,No,Yes,Infrared,No,Yes,Yes,No,No,14,5.0,7.7,No,Yes,Yes,Yes,630
+Samsung,Samsung R79,143,3.7,572,3712,60,No,No,Yes,Camera,Yes,No,No,Yes,Yes,20,4.7,9.3,No,No,No,Yes,240
+Roborock,Roborock X56 Max,197,4.3,579,3651,61,No,Yes,No,Lidar,Yes,Yes,Yes,No,No,14,4.1,8.6,Yes,Yes,No,No,280
+Dreame,Dreame X17 Pro,64,3.3,696,1829,62,Yes,No,No,Lidar+Camera,Yes,No,Yes,No,Yes,9,4.0,9.7,No,Yes,Yes,Yes,289
+Xiaomi,Xiaomi R58 Pro,128,3.1,409,2535,65,Yes,No,Yes,Infrared,No,No,No,No,Yes,14,5.1,10.5,Yes,No,Yes,Yes,921
+Roborock,Roborock V16 Pro,135,5.0,545,2069,67,Yes,Yes,No,Lidar+Camera,No,No,Yes,Yes,Yes,9,4.5,9.7,Yes,Yes,No,Yes,852
+iRobot,iRobot R63 Pro,82,5.4,650,1882,62,No,Yes,Yes,Lidar,No,Yes,No,Yes,No,16,2.5,10.9,No,Yes,No,Yes,407
+Eufy,Eufy S83 Ultra,170,4.6,629,2431,60,No,No,Yes,Lidar+Camera,No,Yes,No,No,Yes,20,3.7,10.7,No,Yes,No,Yes,1200
+Neato,Neato V35 Max,160,4.7,557,3396,64,Yes,No,Yes,Lidar,No,No,Yes,No,Yes,11,5.5,9.4,Yes,Yes,Yes,No,597
+Ecovacs,Ecovacs V96 Max,87,5.4,491,2150,66,No,Yes,No,Lidar,No,Yes,Yes,Yes,No,7,4.1,9.3,No,No,Yes,No,1141
+Proscenic,Proscenic X88,166,3.5,379,3453,68,No,Yes,No,Lidar,Yes,No,Yes,No,Yes,10,3.9,7.2,No,Yes,Yes,Yes,553
+Ecovacs,Ecovacs R12 Pro,135,3.2,517,3539,65,Yes,Yes,Yes,Lidar,Yes,No,No,No,No,14,4.8,9.3,No,No,No,No,807
+Eufy,Eufy S59 Ultra,135,4.1,623,3035,66,No,Yes,No,Infrared,No,No,No,No,Yes,20,5.4,8.9,No,No,No,No,975
+LG,LG X28,162,4.6,450,3905,62,Yes,No,Yes,Lidar,Yes,Yes,Yes,Yes,No,13,3.4,10.6,Yes,No,Yes,Yes,648
+LG,LG X45 Max,155,5.8,488,3430,62,Yes,No,Yes,Lidar+Camera,Yes,No,No,Yes,Yes,17,4.7,9.1,Yes,No,Yes,Yes,1085
+Proscenic,Proscenic S39 Pro,159,5.7,633,3591,60,Yes,Yes,No,Infrared,Yes,No,Yes,No,No,13,3.5,7.3,Yes,No,No,No,386
+Xiaomi,Xiaomi X85 Max,104,5.1,661,2093,56,Yes,Yes,No,Lidar,No,Yes,Yes,No,No,13,3.3,7.6,No,No,Yes,Yes,622
+LG,LG R53 Max,135,3.5,432,4728,67,No,No,No,Lidar,No,Yes,Yes,No,No,17,2.9,10.7,No,Yes,Yes,No,383
+Xiaomi,Xiaomi X54 Max,60,5.8,684,4086,60,Yes,Yes,Yes,Lidar,Yes,No,No,No,Yes,9,3.1,9.4,Yes,Yes,Yes,Yes,1073
+Neato,Neato S5,189,4.6,608,2504,67,No,No,No,Infrared,No,Yes,No,Yes,No,6,5.1,8.4,No,No,Yes,Yes,660
+iRobot,iRobot R73 Ultra,162,4.1,451,2270,69,Yes,Yes,Yes,Lidar+Camera,No,No,Yes,No,Yes,15,2.5,9.7,No,Yes,No,No,382
+iRobot,iRobot S69,166,5.4,667,3364,60,Yes,No,No,Lidar+Camera,No,Yes,Yes,Yes,Yes,7,5.0,10.8,No,Yes,Yes,No,1021
+LG,LG S18,164,4.7,543,3998,59,No,Yes,Yes,Lidar+Camera,Yes,Yes,No,Yes,No,13,3.2,10.4,No,No,No,Yes,951
+Roborock,Roborock X10,100,4.9,662,3115,65,No,No,Yes,Infrared,No,Yes,No,No,No,12,3.0,8.5,Yes,Yes,No,No,845
+iRobot,iRobot V85,157,5.4,659,2515,63,No,Yes,Yes,Lidar,Yes,Yes,No,Yes,No,16,4.7,7.0,Yes,No,Yes,No,712
+Roborock,Roborock S29 Pro,64,4.6,622,4881,68,No,Yes,Yes,Camera,Yes,No,Yes,No,No,9,4.4,8.9,No,Yes,Yes,No,392
+LG,LG S9 Max,107,3.3,490,5526,59,No,No,Yes,Camera,Yes,No,Yes,Yes,Yes,10,3.3,10.4,Yes,Yes,Yes,Yes,310
+Xiaomi,Xiaomi V83 Max,146,3.7,374,4388,56,No,No,No,Infrared,Yes,Yes,No,Yes,Yes,15,4.9,10.8,No,No,Yes,Yes,710
+Ecovacs,Ecovacs X64 Pro,177,2.9,512,2696,57,Yes,Yes,Yes,Lidar,No,Yes,No,Yes,Yes,14,4.1,7.9,Yes,No,No,Yes,677
+Roborock,Roborock R50 Pro,171,5.2,559,2440,70,Yes,Yes,Yes,Lidar,No,Yes,No,No,Yes,14,4.6,8.7,No,Yes,No,No,593
+Samsung,Samsung X58 Max,168,3.1,643,2962,57,Yes,Yes,Yes,Lidar,Yes,No,No,Yes,Yes,9,4.4,8.9,Yes,No,No,No,779
+Samsung,Samsung S29 Max,162,5.0,447,3227,59,No,No,No,Lidar+Camera,Yes,Yes,No,No,Yes,17,4.9,8.2,Yes,No,No,No,882
+LG,LG V87 Max,181,5.2,602,2196,56,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,6,3.1,10.2,Yes,Yes,Yes,No,1117
+iRobot,iRobot X92,121,5.5,362,3096,69,No,Yes,Yes,Lidar,Yes,Yes,Yes,No,Yes,17,3.8,9.7,Yes,Yes,No,No,719
+Ecovacs,Ecovacs R99 Pro,136,4.9,642,3296,67,Yes,No,Yes,Lidar,Yes,No,Yes,Yes,Yes,7,4.7,10.5,Yes,No,No,No,824
+Ecovacs,Ecovacs X55 Ultra,200,3.2,473,5529,70,No,Yes,No,Lidar,No,No,No,No,Yes,20,4.5,10.9,No,No,Yes,No,1141
+Neato,Neato R29 Ultra,194,5.1,656,3016,69,No,Yes,Yes,Lidar,Yes,Yes,Yes,No,No,18,2.6,7.2,No,Yes,No,Yes,552
+Samsung,Samsung V81 Ultra,100,5.3,684,1936,67,No,No,Yes,Lidar+Camera,Yes,Yes,No,Yes,No,14,5.5,9.5,No,Yes,Yes,Yes,323
+Dreame,Dreame V18 Ultra,135,5.9,358,4703,56,Yes,No,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,16,2.6,9.5,Yes,Yes,No,Yes,1115
+Ecovacs,Ecovacs X89 Max,185,2.8,361,4792,63,No,Yes,No,Camera,No,Yes,No,Yes,Yes,6,3.2,10.7,No,Yes,Yes,No,1133
+Eufy,Eufy X30 Ultra,92,4.0,424,3056,56,No,Yes,Yes,Lidar+Camera,No,Yes,No,No,No,11,4.9,10.1,No,Yes,Yes,No,547
+Proscenic,Proscenic V59 Pro,136,3.4,370,2082,66,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,12,4.6,8.5,Yes,Yes,Yes,No,999
+iRobot,iRobot X97 Pro,104,5.6,442,4194,61,No,Yes,No,Infrared,Yes,No,Yes,Yes,Yes,11,3.1,7.4,Yes,Yes,Yes,No,483
+Xiaomi,Xiaomi R60,108,4.4,424,3072,58,Yes,Yes,No,Lidar+Camera,No,Yes,Yes,No,Yes,15,5.1,8.4,Yes,Yes,Yes,No,872
+LG,LG S90 Pro,149,4.7,529,2644,69,No,Yes,Yes,Camera,Yes,No,Yes,Yes,No,16,3.8,9.7,No,No,No,No,378
+Ecovacs,Ecovacs X43,175,4.2,671,2569,70,No,No,No,Infrared,No,No,No,Yes,Yes,12,3.4,9.7,Yes,No,Yes,Yes,954
+Xiaomi,Xiaomi R89 Ultra,147,3.3,611,1589,61,Yes,No,No,Lidar,Yes,No,No,No,Yes,18,4.5,7.0,Yes,Yes,Yes,Yes,562
+Neato,Neato X87 Ultra,179,4.0,563,3026,68,Yes,No,No,Infrared,No,No,Yes,No,Yes,19,5.0,10.7,No,Yes,Yes,No,820
+Proscenic,Proscenic V16 Pro,87,3.0,597,3577,57,No,No,Yes,Infrared,Yes,Yes,Yes,Yes,Yes,20,3.8,8.7,No,Yes,Yes,No,241
+Roborock,Roborock S58 Ultra,115,4.6,436,2082,56,Yes,Yes,No,Infrared,Yes,No,No,No,No,7,5.4,7.2,Yes,Yes,No,No,533
+Eufy,Eufy V98 Max,89,5.5,476,5337,56,No,No,Yes,Lidar+Camera,No,Yes,Yes,Yes,No,13,3.0,8.8,No,No,No,No,1163
+LG,LG V30 Pro,190,2.9,358,4887,59,No,No,No,Camera,Yes,Yes,No,No,No,19,5.2,8.0,Yes,No,No,Yes,851
+Eufy,Eufy R48,157,3.5,502,3691,64,No,No,No,Lidar+Camera,No,Yes,No,No,Yes,16,3.1,9.8,Yes,No,No,Yes,596
+Proscenic,Proscenic V35 Max,136,4.6,626,3615,69,Yes,Yes,No,Lidar+Camera,No,Yes,Yes,Yes,Yes,17,4.6,7.9,Yes,Yes,No,No,940
+LG,LG V23 Max,153,5.4,683,1584,55,No,No,Yes,Camera,Yes,Yes,No,Yes,No,9,5.4,10.5,No,No,No,Yes,487
+LG,LG V82,187,5.0,569,4152,57,No,No,No,Camera,Yes,Yes,No,No,Yes,8,4.0,8.1,No,No,Yes,No,494
+iRobot,iRobot V70,169,3.6,471,1856,61,Yes,Yes,Yes,Infrared,Yes,No,No,No,Yes,19,3.6,9.9,No,Yes,Yes,Yes,229
+Proscenic,Proscenic R48,68,4.3,500,4558,58,Yes,Yes,No,Infrared,No,Yes,No,Yes,No,20,5.2,7.9,No,Yes,No,Yes,905
+Proscenic,Proscenic V91 Ultra,169,4.8,634,2638,65,No,Yes,No,Infrared,No,No,Yes,No,No,16,5.5,8.0,No,Yes,No,No,177
+Ecovacs,Ecovacs V21 Pro,134,3.5,583,2068,56,No,No,No,Infrared,No,Yes,Yes,Yes,Yes,16,3.0,10.2,No,Yes,Yes,Yes,1176
+iRobot,iRobot X9,187,5.9,561,4753,70,No,Yes,Yes,Lidar+Camera,No,Yes,No,Yes,Yes,11,5.3,8.6,No,No,No,Yes,906
+Proscenic,Proscenic S89 Pro,77,4.4,447,2106,70,No,No,No,Lidar+Camera,No,No,Yes,No,No,12,5.1,8.4,No,Yes,Yes,No,1040
+Samsung,Samsung S90 Pro,130,3.3,635,2747,55,Yes,No,Yes,Camera,No,No,No,Yes,Yes,13,3.8,9.4,No,No,Yes,No,1064
+Samsung,Samsung S45,142,3.1,546,3148,55,No,Yes,No,Camera,No,Yes,Yes,No,No,12,3.3,9.6,Yes,Yes,No,No,495
+Xiaomi,Xiaomi X37 Max,140,5.1,431,3802,68,Yes,No,Yes,Lidar,Yes,Yes,No,Yes,No,13,3.7,7.3,Yes,No,Yes,No,561
+LG,LG X17 Ultra,73,5.4,440,5713,57,No,No,No,Lidar,Yes,Yes,Yes,No,Yes,13,2.7,7.3,Yes,No,No,Yes,614
+Xiaomi,Xiaomi R63 Pro,152,3.9,364,1747,56,No,No,No,Lidar+Camera,No,Yes,Yes,Yes,Yes,10,5.0,8.8,No,No,No,Yes,846
+LG,LG X79,75,3.9,435,5556,59,No,No,No,Camera,No,No,Yes,No,Yes,14,3.0,7.4,Yes,Yes,Yes,Yes,778
+LG,LG S89 Pro,196,5.4,550,2610,59,No,No,No,Lidar+Camera,Yes,Yes,No,No,Yes,8,4.3,8.6,No,No,No,No,668
+iRobot,iRobot R49 Pro,88,5.3,567,4177,61,Yes,No,Yes,Lidar,Yes,Yes,Yes,No,Yes,12,5.4,9.2,Yes,Yes,No,No,595
+Roborock,Roborock R96 Ultra,87,3.9,693,2028,67,No,Yes,No,Infrared,Yes,Yes,Yes,Yes,Yes,18,4.9,7.3,No,No,Yes,No,792
+Proscenic,Proscenic V82 Ultra,61,4.9,506,3378,67,Yes,Yes,Yes,Camera,No,No,No,No,No,11,2.9,9.5,No,No,Yes,Yes,301
+Samsung,Samsung V64 Ultra,188,6.0,406,3021,55,No,Yes,No,Lidar+Camera,No,Yes,No,Yes,Yes,8,5.5,9.5,No,No,Yes,No,671
+LG,LG R24 Ultra,161,5.8,671,3544,69,Yes,No,No,Lidar,No,No,Yes,No,Yes,10,3.9,7.3,No,No,No,No,267
+Neato,Neato V26 Ultra,197,4.8,644,4230,58,Yes,Yes,No,Lidar+Camera,No,Yes,No,Yes,Yes,16,2.6,9.8,Yes,No,No,No,318
+iRobot,iRobot X69 Max,171,5.5,489,1793,61,No,Yes,Yes,Infrared,No,No,No,Yes,Yes,20,4.6,9.6,Yes,No,Yes,Yes,1051
+Neato,Neato V10 Ultra,131,4.0,394,1969,56,No,No,No,Infrared,No,Yes,Yes,No,No,16,4.6,8.7,No,No,No,No,1022
+Proscenic,Proscenic S46,106,4.9,369,5864,66,No,No,No,Infrared,Yes,No,Yes,No,Yes,18,5.3,8.1,No,Yes,No,No,179
+Roborock,Roborock X65 Ultra,134,5.1,677,4082,61,No,Yes,Yes,Lidar,Yes,No,No,Yes,Yes,10,4.3,10.6,No,No,Yes,Yes,424
+Proscenic,Proscenic X42 Ultra,197,5.8,388,4312,61,No,Yes,Yes,Camera,No,No,No,No,No,17,2.6,8.3,No,Yes,Yes,No,811
+Proscenic,Proscenic R64 Pro,150,4.5,416,4281,70,No,No,No,Infrared,No,No,No,No,No,6,4.4,10.5,Yes,No,Yes,Yes,1181
+Ecovacs,Ecovacs S90,123,4.9,595,5525,65,Yes,Yes,Yes,Lidar+Camera,No,Yes,No,Yes,No,19,5.4,8.3,Yes,No,Yes,Yes,742
+Ecovacs,Ecovacs V70,104,5.1,653,3559,55,Yes,No,No,Infrared,Yes,No,Yes,No,No,16,3.0,9.4,No,No,No,No,555
+Ecovacs,Ecovacs X52 Pro,198,5.2,500,2696,57,Yes,Yes,Yes,Infrared,Yes,No,Yes,No,Yes,8,3.9,9.1,No,Yes,No,Yes,334
+Samsung,Samsung X78 Ultra,141,3.9,589,4578,59,Yes,Yes,No,Lidar,No,No,No,Yes,No,19,3.2,10.6,No,No,No,No,298
+Proscenic,Proscenic R29 Max,172,4.6,552,5714,64,Yes,Yes,No,Camera,No,No,No,Yes,No,7,5.0,8.8,Yes,No,No,Yes,258
+LG,LG S8 Max,109,5.7,693,4164,59,No,Yes,Yes,Camera,Yes,No,No,No,No,6,5.4,7.9,No,No,Yes,Yes,785
+iRobot,iRobot S24,81,5.1,554,4195,60,Yes,No,No,Lidar+Camera,No,No,Yes,No,Yes,19,4.0,7.2,Yes,No,Yes,Yes,754
+Dreame,Dreame S73 Pro,158,3.1,354,4154,67,Yes,No,No,Lidar+Camera,No,No,Yes,No,Yes,15,5.1,8.8,No,Yes,Yes,Yes,886
+Proscenic,Proscenic V71,112,3.8,572,4123,59,No,Yes,No,Camera,No,No,Yes,No,Yes,12,3.1,10.6,No,Yes,Yes,No,964
+Xiaomi,Xiaomi R9 Ultra,72,5.4,626,4066,67,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,No,Yes,8,2.8,7.9,Yes,Yes,No,Yes,503
+Proscenic,Proscenic R10 Pro,164,4.2,472,3303,58,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,17,3.1,8.3,Yes,No,Yes,Yes,934
+Eufy,Eufy R10,67,3.2,614,4037,62,Yes,Yes,Yes,Infrared,Yes,No,Yes,No,No,9,3.6,9.1,No,Yes,No,No,781
+Eufy,Eufy V73 Ultra,200,5.2,520,2577,68,Yes,Yes,Yes,Infrared,No,Yes,No,Yes,No,20,3.5,7.9,Yes,Yes,No,Yes,150
+Roborock,Roborock V31 Pro,89,4.0,523,4657,64,No,Yes,No,Lidar+Camera,No,Yes,No,No,Yes,12,5.1,8.7,Yes,Yes,Yes,Yes,567
+Samsung,Samsung R53 Max,125,4.7,359,4764,56,No,Yes,No,Lidar,Yes,No,Yes,Yes,No,17,3.3,7.1,No,Yes,Yes,Yes,871
+Samsung,Samsung V96,101,5.8,614,3108,68,Yes,Yes,Yes,Camera,No,Yes,Yes,Yes,No,8,3.7,10.0,No,No,Yes,Yes,396
+Proscenic,Proscenic S87 Pro,81,5.2,628,5371,68,Yes,Yes,No,Lidar,No,No,No,No,No,10,2.6,7.4,Yes,No,Yes,Yes,1094
+Ecovacs,Ecovacs S40 Ultra,165,3.7,391,1870,55,Yes,Yes,No,Infrared,No,Yes,No,No,Yes,14,5.3,9.9,No,No,Yes,No,1132
+Roborock,Roborock V40 Max,64,4.9,434,5592,70,No,No,No,Lidar+Camera,No,Yes,Yes,No,Yes,18,2.5,10.7,No,No,Yes,No,1044
+LG,LG V44,74,3.9,452,4792,58,Yes,No,No,Camera,Yes,No,No,No,Yes,20,5.2,8.0,No,No,No,Yes,334
+Ecovacs,Ecovacs S88,189,3.5,367,5307,57,Yes,Yes,Yes,Lidar,No,Yes,No,Yes,Yes,14,4.6,10.0,No,Yes,No,Yes,960
+Proscenic,Proscenic X94 Ultra,86,2.7,550,5954,58,No,Yes,No,Lidar,No,Yes,Yes,No,No,20,3.1,7.9,No,Yes,No,No,777
+iRobot,iRobot V65 Pro,166,3.5,647,4018,65,No,No,Yes,Lidar,Yes,No,No,No,No,20,5.2,9.9,Yes,Yes,No,No,282
+Xiaomi,Xiaomi X77,145,5.4,537,4035,59,Yes,Yes,Yes,Camera,Yes,Yes,Yes,No,Yes,8,4.0,7.4,No,No,Yes,No,474
+iRobot,iRobot R92,93,3.3,388,3452,68,Yes,Yes,No,Camera,Yes,No,Yes,No,Yes,13,3.7,7.9,Yes,Yes,Yes,No,500
+Ecovacs,Ecovacs S90,184,5.5,382,1879,69,No,Yes,Yes,Lidar+Camera,No,Yes,No,No,No,18,5.3,7.8,Yes,No,No,No,395
+Roborock,Roborock V58 Max,102,4.3,577,2534,58,No,Yes,No,Infrared,No,Yes,No,No,No,20,4.8,7.7,No,No,Yes,Yes,881
+Samsung,Samsung S28 Max,181,2.9,534,2720,61,Yes,No,Yes,Lidar+Camera,No,Yes,Yes,No,Yes,10,5.3,10.0,No,No,No,Yes,1109
+Ecovacs,Ecovacs S53 Pro,136,2.8,614,5266,63,Yes,Yes,No,Camera,Yes,No,Yes,No,No,17,2.8,9.2,Yes,No,No,Yes,976
+Eufy,Eufy R14 Max,80,3.6,455,2755,70,No,No,No,Infrared,No,No,Yes,No,No,9,3.5,8.7,Yes,No,Yes,Yes,1080
+Dreame,Dreame S91,138,5.4,556,1856,57,No,Yes,Yes,Camera,Yes,Yes,No,No,No,13,5.4,9.7,No,No,Yes,No,455
+iRobot,iRobot X38 Max,105,5.5,615,1601,67,No,No,Yes,Lidar,No,Yes,Yes,No,Yes,13,5.2,8.9,Yes,Yes,No,Yes,523
+LG,LG S38,72,4.8,555,5677,60,Yes,No,No,Lidar,No,No,Yes,No,Yes,9,5.4,10.1,No,No,Yes,Yes,532
+LG,LG R73 Max,115,3.6,595,2343,66,Yes,No,Yes,Lidar,No,Yes,No,No,Yes,17,4.5,8.0,Yes,No,No,Yes,443
+Neato,Neato S41 Pro,154,5.4,673,5151,57,No,No,No,Camera,No,Yes,Yes,No,No,17,3.1,7.7,No,Yes,Yes,Yes,682
+Roborock,Roborock X52 Pro,88,4.3,617,3551,57,Yes,Yes,Yes,Infrared,No,Yes,No,No,Yes,13,3.4,9.1,No,No,No,No,993
+Samsung,Samsung X90 Max,200,3.4,573,5712,63,No,Yes,No,Infrared,No,Yes,Yes,Yes,No,16,4.6,7.8,Yes,Yes,Yes,No,260
+Proscenic,Proscenic R96 Ultra,62,4.9,449,3560,56,No,No,Yes,Lidar,No,No,No,No,No,11,4.7,7.7,No,No,Yes,Yes,1041
+Ecovacs,Ecovacs S72 Pro,150,4.5,618,4100,68,Yes,No,Yes,Infrared,No,No,Yes,No,Yes,11,5.0,9.3,No,No,Yes,Yes,702
+Eufy,Eufy X27 Max,84,5.1,377,2755,61,No,Yes,Yes,Lidar,Yes,No,Yes,No,No,6,2.9,8.3,No,No,Yes,Yes,1006
+iRobot,iRobot S7 Max,90,3.0,447,5686,66,No,No,Yes,Lidar+Camera,No,Yes,No,No,No,19,4.5,8.7,Yes,No,No,Yes,911
+Ecovacs,Ecovacs V9,130,2.8,493,2324,63,No,No,Yes,Infrared,Yes,No,Yes,No,Yes,6,2.6,9.8,No,No,Yes,No,977
+Roborock,Roborock X86 Pro,123,4.4,667,5714,56,Yes,Yes,Yes,Lidar+Camera,No,Yes,No,No,Yes,12,4.3,7.5,No,No,No,No,352
+Samsung,Samsung S51 Ultra,105,4.6,584,3205,64,Yes,Yes,Yes,Lidar+Camera,No,No,Yes,Yes,Yes,18,3.2,7.7,Yes,No,Yes,Yes,1031
+Ecovacs,Ecovacs R31 Pro,154,4.2,554,1525,67,No,Yes,No,Camera,No,No,No,Yes,Yes,9,2.6,8.8,No,No,No,Yes,982
+Ecovacs,Ecovacs S58,96,2.9,457,1669,67,No,Yes,Yes,Infrared,No,Yes,No,No,Yes,12,4.7,10.7,No,Yes,No,Yes,1166
+Ecovacs,Ecovacs V13,127,5.3,485,4211,60,Yes,No,No,Camera,Yes,No,Yes,Yes,No,8,3.8,8.8,No,Yes,No,No,248
+iRobot,iRobot R57 Ultra,125,4.4,381,2222,70,Yes,No,No,Infrared,No,No,Yes,Yes,Yes,12,3.7,8.8,Yes,No,Yes,Yes,579
+Xiaomi,Xiaomi V53 Max,100,4.3,603,2970,59,Yes,No,No,Lidar,Yes,No,No,Yes,No,14,3.8,8.5,No,No,Yes,Yes,972
+Samsung,Samsung V25 Pro,140,5.4,446,3333,63,Yes,No,No,Infrared,No,No,No,Yes,Yes,20,5.3,7.8,No,Yes,Yes,Yes,814
+Proscenic,Proscenic V64 Ultra,115,5.6,495,5813,58,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,No,No,8,5.3,10.3,Yes,No,No,Yes,582
+iRobot,iRobot S77 Max,94,5.6,531,1726,64,Yes,No,No,Lidar+Camera,No,Yes,Yes,No,No,19,4.6,10.7,Yes,No,No,No,294
+Samsung,Samsung X50 Max,60,5.0,501,5748,60,No,No,No,Camera,Yes,Yes,No,Yes,Yes,20,5.0,10.2,Yes,No,Yes,No,522
+Ecovacs,Ecovacs X50,88,3.6,512,4645,56,Yes,Yes,No,Camera,Yes,Yes,Yes,Yes,Yes,9,4.5,9.5,Yes,No,No,No,986
+Dreame,Dreame R22 Pro,185,2.6,616,5776,59,Yes,No,Yes,Infrared,Yes,Yes,No,Yes,Yes,12,3.9,8.0,No,Yes,No,Yes,1065
+iRobot,iRobot S44 Ultra,193,3.8,464,5077,70,No,No,No,Camera,No,Yes,No,No,Yes,20,3.3,10.2,No,No,No,No,1143
+Roborock,Roborock V19 Ultra,152,3.6,518,4793,68,Yes,No,No,Lidar+Camera,No,No,Yes,No,Yes,20,3.8,9.9,No,Yes,Yes,No,605
+iRobot,iRobot X54 Max,172,5.5,505,5450,56,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,No,19,3.2,8.1,No,Yes,Yes,Yes,890
+Samsung,Samsung V97,149,3.5,387,2546,61,Yes,Yes,Yes,Lidar,Yes,No,No,Yes,No,15,3.5,9.9,Yes,Yes,Yes,Yes,479
+Samsung,Samsung V12 Pro,61,5.3,392,3996,68,Yes,No,No,Infrared,Yes,No,No,No,No,8,3.2,8.9,No,Yes,No,No,580
+iRobot,iRobot S28 Ultra,61,4.4,547,3813,59,Yes,No,Yes,Camera,No,No,Yes,No,No,15,3.4,8.6,Yes,No,No,Yes,568
+Dreame,Dreame X25 Pro,190,4.3,526,2154,59,No,Yes,Yes,Lidar+Camera,No,Yes,Yes,Yes,No,9,4.5,7.3,Yes,No,Yes,No,175
+Proscenic,Proscenic R80,193,5.5,585,2976,69,No,Yes,No,Lidar+Camera,No,No,No,Yes,No,7,2.9,9.1,No,No,No,No,1114
+iRobot,iRobot V97 Pro,164,3.1,662,1993,57,No,No,No,Camera,No,No,No,No,No,15,3.0,9.4,Yes,No,Yes,Yes,718
+iRobot,iRobot S33 Max,193,5.5,559,2249,57,Yes,Yes,No,Infrared,No,Yes,Yes,No,No,12,3.4,8.8,Yes,No,Yes,Yes,743
+Dreame,Dreame S32 Max,85,3.7,475,1817,66,Yes,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,No,19,4.4,9.2,Yes,No,Yes,No,855
+Proscenic,Proscenic X58 Pro,117,4.6,598,3541,64,Yes,No,No,Camera,Yes,No,Yes,No,Yes,18,4.1,7.1,Yes,Yes,No,Yes,151
+Xiaomi,Xiaomi X91,76,2.6,515,5773,67,Yes,No,No,Camera,Yes,No,No,Yes,No,19,5.0,7.3,Yes,No,No,Yes,467
+Xiaomi,Xiaomi S39 Pro,136,2.8,615,3511,59,Yes,No,Yes,Lidar+Camera,No,No,No,No,No,19,4.0,9.3,No,No,No,No,674
+Eufy,Eufy S69 Max,74,2.5,469,5447,64,No,Yes,Yes,Camera,No,Yes,No,No,No,14,3.3,10.9,No,No,Yes,No,529
+Eufy,Eufy S13 Pro,168,4.8,437,3261,68,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,Yes,17,3.2,8.1,No,Yes,Yes,Yes,1033
+iRobot,iRobot V58 Max,196,4.4,368,2000,62,Yes,No,No,Lidar,Yes,Yes,Yes,Yes,Yes,12,5.2,7.2,Yes,Yes,Yes,Yes,160
+Eufy,Eufy R19 Pro,152,2.6,408,5503,55,No,Yes,Yes,Camera,Yes,No,No,Yes,No,8,4.4,8.3,No,No,No,No,512
+Xiaomi,Xiaomi V58 Max,118,5.1,428,3469,65,No,No,No,Lidar+Camera,No,No,Yes,Yes,Yes,12,3.9,8.2,Yes,No,Yes,Yes,603
+Dreame,Dreame R72 Ultra,102,2.5,537,3608,62,No,Yes,No,Camera,Yes,No,Yes,Yes,Yes,13,3.1,9.9,No,Yes,Yes,No,665
+LG,LG V39,166,3.2,397,2154,67,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,No,No,13,3.0,10.5,Yes,Yes,Yes,No,396
+Dreame,Dreame X71,174,5.7,503,2833,64,Yes,Yes,No,Camera,Yes,No,No,Yes,Yes,17,4.7,8.6,Yes,Yes,No,Yes,750
+LG,LG V48,178,2.8,521,1556,63,Yes,No,Yes,Camera,No,Yes,No,Yes,Yes,17,2.9,10.3,No,No,Yes,No,829
+Xiaomi,Xiaomi V64 Pro,99,5.9,422,3849,62,Yes,No,Yes,Lidar+Camera,No,Yes,No,No,No,15,3.4,7.6,Yes,No,No,Yes,665
+Eufy,Eufy R87 Max,147,5.6,682,5261,65,No,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,7,3.9,10.1,No,Yes,No,Yes,845
+Ecovacs,Ecovacs V35,83,2.9,576,2903,62,Yes,No,Yes,Lidar,No,No,No,No,Yes,20,5.2,8.0,No,No,No,No,581
+Eufy,Eufy V21,171,3.6,691,1889,57,Yes,No,No,Lidar+Camera,No,No,Yes,No,No,19,4.7,8.3,No,Yes,No,Yes,692
+Roborock,Roborock V30 Ultra,126,2.6,372,2559,56,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,19,2.9,7.8,Yes,No,Yes,Yes,752
+Ecovacs,Ecovacs S37 Pro,95,3.2,384,2414,69,No,No,Yes,Infrared,Yes,Yes,No,Yes,Yes,8,3.4,11.0,Yes,No,Yes,No,196
+Neato,Neato R33,83,5.8,436,5557,57,No,No,Yes,Lidar,No,No,No,No,Yes,11,2.5,9.7,Yes,Yes,Yes,No,330
+Eufy,Eufy X92 Ultra,119,5.7,537,1567,63,Yes,No,No,Infrared,Yes,Yes,No,No,No,12,4.2,7.6,Yes,No,No,No,621
+Samsung,Samsung V10 Ultra,70,5.4,493,5304,60,No,No,Yes,Camera,No,No,No,Yes,No,7,4.4,8.7,Yes,No,Yes,Yes,980
+Neato,Neato R68 Max,198,5.0,663,4978,66,No,Yes,Yes,Infrared,No,Yes,No,No,Yes,12,3.9,8.8,Yes,No,Yes,No,421
+LG,LG V24 Ultra,136,4.1,698,2598,66,Yes,Yes,Yes,Infrared,Yes,Yes,Yes,Yes,No,19,4.4,7.7,No,No,No,Yes,992
+iRobot,iRobot R6 Ultra,64,2.5,386,1729,64,Yes,Yes,No,Lidar+Camera,No,No,Yes,No,No,12,4.1,10.3,Yes,Yes,Yes,No,1195
+Roborock,Roborock X40,147,3.2,396,1503,64,No,No,No,Lidar+Camera,No,No,No,Yes,No,17,3.0,9.7,Yes,Yes,No,Yes,174
+Eufy,Eufy X48 Ultra,82,2.9,633,5403,58,Yes,Yes,No,Infrared,No,No,No,No,No,17,4.9,8.7,Yes,No,No,Yes,732
+LG,LG X20,64,4.9,466,2618,70,No,Yes,No,Lidar+Camera,Yes,Yes,No,Yes,No,17,3.6,10.6,No,Yes,No,Yes,1200
+iRobot,iRobot X38,167,4.8,677,2010,69,No,No,No,Camera,No,Yes,Yes,No,Yes,15,4.2,9.2,Yes,Yes,Yes,No,416
+Eufy,Eufy S25,122,4.6,508,2897,58,No,Yes,Yes,Camera,No,No,No,No,Yes,16,3.3,9.9,Yes,No,No,Yes,722
+Dreame,Dreame X72 Pro,87,3.0,390,4576,58,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,No,10,5.4,9.0,No,No,No,Yes,752
+Ecovacs,Ecovacs X47 Ultra,99,5.7,478,4643,55,Yes,No,Yes,Lidar+Camera,Yes,No,Yes,No,No,16,4.1,10.6,No,No,Yes,No,827
+Proscenic,Proscenic S83 Ultra,119,4.8,586,2215,68,No,No,No,Infrared,Yes,Yes,Yes,Yes,Yes,17,3.1,9.1,Yes,No,No,Yes,1152
+LG,LG X54,93,3.7,671,3146,58,No,No,No,Camera,No,Yes,No,Yes,Yes,10,5.4,7.7,Yes,No,No,No,1197
+Eufy,Eufy R36,105,5.6,671,2343,64,No,Yes,Yes,Lidar,Yes,Yes,No,No,No,7,3.3,8.8,No,Yes,No,No,998
+Ecovacs,Ecovacs S15 Ultra,141,5.9,569,1998,58,No,No,No,Lidar,No,No,Yes,No,No,6,3.5,10.4,Yes,Yes,Yes,No,599
+LG,LG X34 Max,89,2.8,381,5529,64,No,Yes,Yes,Infrared,Yes,No,No,Yes,Yes,14,2.7,10.6,Yes,Yes,No,Yes,803
+LG,LG X56 Pro,188,4.3,493,5966,70,Yes,Yes,Yes,Camera,No,Yes,Yes,No,Yes,13,4.4,9.7,No,No,No,No,870
+Samsung,Samsung R64 Pro,190,3.1,529,3338,60,No,Yes,No,Lidar,Yes,Yes,Yes,Yes,Yes,11,4.6,9.8,No,Yes,No,No,959
+Ecovacs,Ecovacs S83 Ultra,198,5.9,359,2733,57,No,No,No,Lidar,Yes,Yes,Yes,No,Yes,20,2.6,8.8,No,No,No,Yes,967
+Samsung,Samsung R36,128,3.8,677,2527,66,No,No,Yes,Lidar,Yes,No,No,Yes,No,16,2.8,7.5,No,No,Yes,Yes,177
+Proscenic,Proscenic V63 Ultra,87,2.6,514,3282,57,Yes,Yes,Yes,Infrared,No,No,No,Yes,No,18,5.4,9.4,No,No,Yes,Yes,1199
+LG,LG S44 Pro,197,5.8,526,3249,57,No,Yes,Yes,Camera,No,Yes,No,No,Yes,9,3.1,9.9,Yes,No,No,No,671
+Ecovacs,Ecovacs R33 Pro,177,3.4,558,5376,55,Yes,No,Yes,Infrared,No,Yes,Yes,No,No,13,4.7,10.6,No,No,No,No,451
+Roborock,Roborock R97 Pro,97,5.6,429,2614,60,Yes,No,No,Lidar+Camera,No,Yes,No,No,Yes,12,4.0,8.6,Yes,No,No,No,535
+Eufy,Eufy S60,82,3.5,418,4631,69,No,No,Yes,Lidar,No,No,No,No,No,16,4.7,8.3,No,No,No,No,491
+Samsung,Samsung X58 Max,93,3.1,447,2444,57,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,No,No,7,3.6,10.7,Yes,Yes,No,No,527
+Samsung,Samsung X76 Pro,192,4.0,506,5430,57,No,Yes,Yes,Lidar,No,Yes,Yes,No,Yes,12,4.3,7.1,Yes,No,No,No,1193
+Samsung,Samsung X19 Ultra,109,5.8,425,2983,64,No,No,No,Lidar+Camera,No,Yes,Yes,No,Yes,10,3.5,7.4,Yes,Yes,Yes,Yes,427
+Samsung,Samsung X41,184,4.6,540,4876,63,Yes,No,No,Infrared,Yes,Yes,Yes,Yes,Yes,12,3.5,10.7,Yes,Yes,No,No,746
+LG,LG V31 Pro,160,3.6,409,4774,67,Yes,No,Yes,Infrared,Yes,Yes,Yes,No,No,16,3.6,8.8,No,Yes,No,Yes,483
+Neato,Neato X5 Ultra,173,4.8,700,5270,65,No,Yes,Yes,Camera,No,Yes,No,Yes,No,17,5.4,8.0,No,No,Yes,No,360
+Roborock,Roborock X98 Max,191,4.6,560,4363,66,Yes,Yes,No,Camera,No,No,Yes,Yes,No,8,4.1,10.1,No,Yes,Yes,No,1019
+Ecovacs,Ecovacs R26 Max,184,4.1,518,5750,70,No,Yes,No,Lidar+Camera,No,No,Yes,Yes,Yes,10,3.2,8.0,Yes,No,Yes,No,1183
+Neato,Neato X30,106,2.8,538,3500,59,No,Yes,No,Camera,No,Yes,No,Yes,No,16,3.1,8.1,Yes,Yes,Yes,No,176
+iRobot,iRobot X88 Ultra,89,3.4,388,4519,68,Yes,Yes,No,Lidar,No,No,No,Yes,Yes,7,3.8,10.3,No,Yes,No,No,1088
+Dreame,Dreame V45 Pro,141,2.8,399,3891,70,Yes,No,No,Camera,No,Yes,No,Yes,No,12,4.7,7.5,Yes,Yes,Yes,No,430
+LG,LG V55 Max,89,5.8,421,2970,56,No,No,Yes,Infrared,No,Yes,No,Yes,No,6,2.8,8.7,Yes,Yes,Yes,Yes,656
+iRobot,iRobot S84,102,3.7,680,2841,66,No,No,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,20,4.2,10.2,Yes,Yes,No,No,576
+Dreame,Dreame S83 Ultra,116,4.4,429,2213,68,No,Yes,Yes,Camera,No,Yes,No,Yes,No,10,4.1,10.4,Yes,Yes,Yes,Yes,406
+Roborock,Roborock X38 Ultra,155,4.2,624,4884,70,No,No,Yes,Infrared,No,Yes,No,Yes,No,16,3.5,7.5,Yes,Yes,Yes,Yes,845
+Dreame,Dreame V24,90,5.9,681,5001,62,No,No,Yes,Lidar+Camera,No,Yes,No,Yes,No,12,3.8,8.5,No,No,Yes,No,1199
+Samsung,Samsung R68 Max,184,4.9,414,4630,56,Yes,No,No,Lidar+Camera,Yes,Yes,No,No,No,12,3.9,8.4,No,Yes,Yes,Yes,847
+Neato,Neato X29 Max,75,5.8,549,3984,59,Yes,Yes,No,Camera,No,Yes,No,No,No,8,2.8,8.3,No,Yes,Yes,Yes,278
+Samsung,Samsung V99 Max,82,4.3,630,5555,70,Yes,No,No,Lidar,Yes,No,No,No,No,16,5.2,7.1,No,Yes,Yes,Yes,780
+Xiaomi,Xiaomi V32 Ultra,63,4.9,666,5452,56,No,Yes,No,Infrared,Yes,Yes,No,Yes,No,12,4.3,10.4,No,No,No,No,862
+Samsung,Samsung R68 Max,194,2.7,437,5818,55,No,Yes,No,Camera,No,Yes,No,Yes,Yes,18,3.5,7.3,No,Yes,Yes,No,416
+Dreame,Dreame S67 Ultra,111,4.5,693,4160,58,Yes,Yes,No,Camera,Yes,Yes,No,Yes,Yes,20,3.9,8.9,No,No,No,Yes,789
+Samsung,Samsung R51 Ultra,157,3.5,637,1912,67,No,Yes,No,Camera,No,Yes,No,No,Yes,18,2.7,8.2,No,No,No,Yes,974
+Eufy,Eufy V66 Pro,133,3.7,509,3008,62,Yes,Yes,No,Infrared,No,No,Yes,No,No,7,3.1,9.5,No,No,No,Yes,1013
+Roborock,Roborock V23 Max,98,4.0,528,2616,64,No,No,No,Lidar,No,Yes,No,No,Yes,15,3.7,7.5,Yes,Yes,Yes,No,235
+Eufy,Eufy V56 Ultra,139,2.7,352,2219,57,No,No,No,Lidar+Camera,No,No,No,Yes,No,6,3.0,10.0,Yes,Yes,No,No,896
+Neato,Neato S39 Max,134,2.6,350,2008,67,No,Yes,Yes,Lidar,Yes,Yes,No,Yes,No,17,3.6,7.9,No,Yes,No,No,444
+Neato,Neato X8,199,2.9,410,3396,67,Yes,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,6,4.9,9.4,Yes,No,Yes,No,1055
+Ecovacs,Ecovacs R32 Ultra,196,3.9,457,2609,62,Yes,Yes,Yes,Infrared,Yes,No,No,No,Yes,10,4.1,9.6,Yes,Yes,No,Yes,725
+LG,LG R82,62,2.5,613,2317,57,Yes,Yes,No,Lidar,No,No,No,Yes,No,16,3.5,10.0,No,Yes,No,No,164
+LG,LG R94 Pro,135,3.0,627,3713,68,Yes,Yes,Yes,Camera,Yes,Yes,Yes,Yes,No,6,5.4,10.5,Yes,No,No,No,435
+iRobot,iRobot X64,96,3.1,646,5353,66,Yes,No,No,Infrared,No,No,Yes,Yes,No,13,5.0,10.2,Yes,No,Yes,Yes,1115
+Samsung,Samsung V94 Pro,98,5.6,541,4371,58,No,No,No,Lidar+Camera,Yes,No,No,Yes,Yes,20,3.1,7.2,No,No,No,Yes,1121
+Eufy,Eufy X41 Max,90,5.0,466,5509,61,Yes,Yes,Yes,Infrared,No,Yes,No,No,No,12,5.1,9.2,Yes,Yes,No,Yes,385
+Samsung,Samsung X23 Ultra,77,4.3,483,2447,62,Yes,Yes,Yes,Camera,No,No,Yes,Yes,Yes,15,5.4,8.7,Yes,Yes,Yes,No,333
+Xiaomi,Xiaomi R70,150,3.2,690,5508,57,Yes,No,Yes,Lidar+Camera,Yes,No,Yes,No,No,15,5.4,10.8,Yes,No,Yes,No,980
+Samsung,Samsung X40,176,5.6,488,4518,65,No,No,Yes,Infrared,No,Yes,Yes,No,Yes,16,2.6,7.6,Yes,No,No,Yes,1061
+LG,LG R54 Pro,61,3.2,471,3449,69,No,Yes,No,Infrared,No,No,Yes,No,No,10,4.0,10.5,No,No,No,No,951
+Dreame,Dreame S39 Max,189,3.8,606,2841,64,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,10,2.5,10.0,No,Yes,No,Yes,201
+Ecovacs,Ecovacs S59 Pro,189,5.5,495,3578,58,Yes,No,Yes,Camera,No,No,No,No,No,18,3.5,9.2,No,No,Yes,Yes,1067
+LG,LG X22,104,4.0,454,5536,67,Yes,Yes,Yes,Lidar,No,No,No,No,Yes,13,5.3,7.6,Yes,No,No,Yes,847
+Ecovacs,Ecovacs R99 Max,148,5.9,523,4260,63,Yes,Yes,Yes,Camera,Yes,No,No,No,Yes,13,4.9,10.2,No,Yes,No,Yes,717
+Ecovacs,Ecovacs V89 Pro,132,4.2,546,4616,59,Yes,Yes,No,Lidar+Camera,Yes,No,No,No,Yes,7,5.2,7.5,Yes,Yes,Yes,No,427
+Dreame,Dreame X68 Pro,190,3.4,360,4098,56,Yes,No,No,Lidar+Camera,No,No,No,Yes,No,7,4.6,9.1,No,No,No,Yes,826
+iRobot,iRobot V63,100,5.4,532,1773,65,Yes,Yes,Yes,Lidar+Camera,Yes,Yes,No,No,No,9,2.5,7.9,Yes,No,No,Yes,1163
+Proscenic,Proscenic R63,79,4.3,695,4598,55,Yes,Yes,Yes,Lidar,No,No,No,Yes,Yes,8,5.3,9.8,Yes,Yes,No,Yes,972
+Xiaomi,Xiaomi S13 Ultra,73,5.1,498,1598,57,Yes,Yes,Yes,Infrared,No,Yes,No,No,Yes,16,4.8,8.0,No,Yes,No,No,598
+Eufy,Eufy R16 Max,75,5.7,500,3849,60,No,No,No,Lidar,Yes,Yes,No,No,Yes,14,3.8,8.2,Yes,No,No,Yes,416
+Xiaomi,Xiaomi V90 Pro,112,4.4,375,2126,70,No,No,No,Camera,No,No,No,Yes,Yes,13,4.3,9.4,No,Yes,No,Yes,324
+Neato,Neato V88 Ultra,86,4.2,383,4272,70,No,No,No,Infrared,No,Yes,Yes,No,No,10,5.4,10.8,No,Yes,Yes,Yes,1017
+Eufy,Eufy X70 Pro,165,5.3,504,4478,65,Yes,No,No,Lidar,No,No,Yes,No,No,20,3.8,8.5,No,Yes,Yes,No,432
+Xiaomi,Xiaomi R31 Max,133,5.7,537,1963,70,Yes,No,No,Camera,No,No,No,Yes,No,19,5.4,7.6,Yes,No,Yes,No,816
+LG,LG X88 Pro,170,4.8,501,3928,57,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,No,Yes,19,2.7,8.9,No,Yes,No,Yes,897
+LG,LG X8 Ultra,119,3.6,503,5646,59,Yes,No,No,Lidar+Camera,Yes,No,No,No,Yes,11,2.8,8.6,No,No,No,Yes,391
+Xiaomi,Xiaomi V69 Pro,97,2.6,526,4075,58,Yes,No,No,Camera,Yes,No,Yes,Yes,No,15,5.0,9.3,No,No,Yes,No,530
+Roborock,Roborock V72 Max,140,5.4,595,4404,61,Yes,Yes,No,Infrared,Yes,No,No,Yes,Yes,14,3.1,9.2,No,No,Yes,Yes,726
+Dreame,Dreame X88,167,4.5,387,2481,55,Yes,Yes,Yes,Camera,No,No,No,No,Yes,20,4.2,9.0,No,Yes,Yes,Yes,702
+Dreame,Dreame S60,100,4.5,411,2796,68,No,No,Yes,Lidar,No,No,No,Yes,No,7,4.7,8.9,Yes,No,No,No,240
+Xiaomi,Xiaomi R23,183,5.0,410,1979,59,Yes,Yes,No,Camera,No,No,Yes,No,Yes,15,2.9,7.9,Yes,No,Yes,No,804
+Roborock,Roborock R22 Pro,181,5.5,680,2439,57,Yes,Yes,Yes,Lidar,No,Yes,Yes,Yes,No,6,5.3,10.2,Yes,No,No,No,950
+Roborock,Roborock V10 Ultra,165,2.5,441,1972,69,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,No,Yes,20,2.8,7.5,Yes,Yes,Yes,No,301
+Xiaomi,Xiaomi V32 Ultra,104,4.4,551,4457,59,Yes,Yes,Yes,Lidar,No,Yes,Yes,No,Yes,17,4.5,9.9,No,No,Yes,No,1031
+Eufy,Eufy R54,179,5.6,650,4051,60,No,No,Yes,Lidar+Camera,No,Yes,No,No,No,15,4.0,10.4,Yes,No,No,Yes,933
+Roborock,Roborock X66 Pro,95,3.5,399,5380,68,No,No,Yes,Lidar,Yes,Yes,No,No,No,6,3.2,7.4,Yes,No,No,No,625
+Samsung,Samsung X75 Pro,176,3.6,471,3710,67,Yes,No,No,Lidar+Camera,No,No,Yes,Yes,Yes,19,4.9,9.8,No,No,Yes,Yes,431
+Dreame,Dreame V26 Ultra,125,4.3,464,5245,70,Yes,Yes,No,Lidar,Yes,No,Yes,No,No,14,4.7,7.6,No,Yes,Yes,Yes,362
+iRobot,iRobot V52 Ultra,91,2.9,489,2558,61,Yes,No,No,Infrared,No,Yes,No,No,Yes,15,3.1,8.4,Yes,No,Yes,No,1098
+Samsung,Samsung X53 Ultra,70,3.5,539,3866,61,Yes,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,No,6,4.5,7.1,Yes,Yes,Yes,No,637
+Proscenic,Proscenic R39 Max,157,5.6,486,4465,64,Yes,No,Yes,Lidar,Yes,Yes,No,No,Yes,18,4.3,9.0,No,Yes,No,No,410
+Roborock,Roborock R32 Pro,189,3.4,359,5422,64,Yes,No,Yes,Camera,No,Yes,No,Yes,No,8,4.4,10.6,No,Yes,Yes,No,1067
+Ecovacs,Ecovacs X25 Max,60,3.2,689,5649,62,Yes,Yes,Yes,Lidar,Yes,Yes,No,No,No,20,3.9,7.9,Yes,No,No,Yes,676
+iRobot,iRobot R95 Max,73,2.5,363,5658,63,Yes,No,No,Camera,No,No,Yes,No,Yes,11,3.1,7.2,No,No,No,No,1007
+Proscenic,Proscenic R9 Pro,99,3.6,483,1776,56,Yes,Yes,Yes,Infrared,No,No,No,No,No,17,3.7,9.8,No,No,Yes,No,1142
+iRobot,iRobot R75 Ultra,164,4.6,664,5163,56,No,No,Yes,Lidar,Yes,No,Yes,Yes,No,20,4.4,7.1,No,Yes,No,No,327
+Xiaomi,Xiaomi S36 Pro,171,5.2,665,3689,63,No,Yes,Yes,Camera,Yes,Yes,Yes,No,No,19,5.3,8.2,No,No,No,No,270
+Roborock,Roborock R26 Pro,128,4.8,378,5948,70,Yes,No,No,Camera,No,Yes,Yes,Yes,No,11,5.3,10.9,Yes,Yes,Yes,No,630
+LG,LG X94 Pro,111,4.9,692,1986,58,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,No,No,20,3.1,8.4,No,No,Yes,Yes,717
+Eufy,Eufy S29 Ultra,103,5.3,674,4223,66,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,18,5.0,7.9,No,Yes,Yes,No,403
+Roborock,Roborock S28 Ultra,161,3.0,403,4958,67,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,No,No,19,3.2,10.2,No,No,Yes,No,299
+iRobot,iRobot S21 Pro,63,5.8,460,3591,67,No,Yes,No,Infrared,Yes,No,Yes,No,Yes,18,2.6,8.1,No,Yes,No,No,1158
+Xiaomi,Xiaomi S54 Pro,134,2.9,664,4176,63,No,Yes,Yes,Camera,No,No,No,No,Yes,8,5.3,10.4,No,No,Yes,No,383
+Dreame,Dreame R78,192,2.6,610,4107,57,Yes,No,Yes,Camera,No,Yes,Yes,Yes,Yes,20,5.1,10.4,Yes,No,No,Yes,1141
+Dreame,Dreame S85,114,2.7,670,4984,69,Yes,No,No,Camera,Yes,No,Yes,Yes,No,7,2.8,8.8,No,No,Yes,No,437
+Dreame,Dreame S26 Max,103,4.7,661,4327,63,Yes,No,Yes,Lidar,Yes,Yes,Yes,Yes,Yes,14,2.6,10.8,Yes,No,No,Yes,406
+Xiaomi,Xiaomi R89 Ultra,152,5.7,485,5883,67,Yes,No,Yes,Infrared,Yes,Yes,Yes,Yes,No,13,2.9,8.4,Yes,Yes,Yes,No,697
+Neato,Neato S15 Pro,83,3.7,596,3220,63,Yes,No,No,Infrared,No,No,No,No,No,16,4.3,8.7,Yes,No,Yes,No,739
+Neato,Neato S25 Max,161,4.6,590,4014,68,Yes,No,No,Camera,No,Yes,Yes,Yes,Yes,12,2.6,8.6,Yes,Yes,Yes,No,1120
+Proscenic,Proscenic V6 Pro,107,5.7,498,4126,69,Yes,Yes,No,Camera,No,Yes,No,No,Yes,10,3.6,9.7,No,No,No,Yes,156
+Eufy,Eufy X48,90,5.5,373,2477,61,No,Yes,No,Lidar+Camera,No,No,Yes,Yes,No,9,3.8,9.9,Yes,No,Yes,Yes,587
+Eufy,Eufy R18 Ultra,188,5.9,607,3736,63,Yes,Yes,No,Camera,No,Yes,Yes,No,Yes,19,5.1,7.2,No,Yes,Yes,Yes,253
+Proscenic,Proscenic X43,163,5.8,544,5990,61,No,Yes,Yes,Infrared,Yes,No,No,No,Yes,19,3.0,8.1,Yes,Yes,Yes,No,413
+LG,LG R53 Ultra,139,5.8,569,3940,64,No,No,No,Infrared,No,Yes,No,No,Yes,16,5.3,10.7,No,Yes,Yes,No,468
+iRobot,iRobot S26 Max,62,3.6,662,2960,57,No,Yes,No,Camera,No,Yes,No,No,No,7,3.6,9.2,No,No,Yes,No,1057
+Dreame,Dreame R16 Pro,100,2.9,352,5584,59,No,Yes,No,Lidar+Camera,No,No,No,Yes,No,12,4.5,7.2,Yes,No,No,No,1144
+Roborock,Roborock S22 Pro,113,5.1,397,3792,62,No,No,Yes,Lidar,No,No,Yes,No,No,13,4.1,10.9,Yes,Yes,Yes,No,207
+Ecovacs,Ecovacs S56 Ultra,185,2.9,363,5118,57,Yes,No,Yes,Lidar+Camera,No,No,No,No,No,9,4.6,9.9,Yes,Yes,Yes,Yes,409
+iRobot,iRobot R67 Max,156,2.9,352,2159,58,Yes,No,No,Lidar,Yes,No,Yes,No,No,19,4.0,9.9,Yes,No,Yes,No,1028
+Neato,Neato R29 Ultra,191,5.4,592,4739,69,No,No,Yes,Infrared,No,No,Yes,No,No,13,3.9,7.6,No,Yes,Yes,No,1049
+iRobot,iRobot S71 Pro,167,4.3,622,2908,55,No,No,No,Lidar+Camera,Yes,No,No,Yes,Yes,14,2.9,9.6,Yes,No,No,No,253
+Ecovacs,Ecovacs V9 Ultra,188,4.4,379,2196,64,Yes,No,No,Lidar+Camera,No,Yes,No,Yes,No,6,3.2,8.8,No,No,No,Yes,754
+Proscenic,Proscenic R38,118,5.2,474,2384,63,Yes,Yes,No,Camera,Yes,Yes,Yes,No,Yes,6,3.5,10.6,No,Yes,Yes,Yes,837
+Xiaomi,Xiaomi R5,190,5.2,463,4481,64,Yes,Yes,Yes,Lidar,Yes,No,No,Yes,No,16,5.0,9.6,No,No,Yes,No,1196
+iRobot,iRobot S30 Ultra,145,3.5,680,5567,66,No,Yes,Yes,Lidar,No,No,Yes,Yes,No,14,5.0,8.6,No,Yes,Yes,No,211
+Dreame,Dreame S18 Max,161,5.4,677,5418,55,Yes,Yes,No,Lidar+Camera,Yes,No,Yes,No,Yes,6,5.4,8.3,Yes,Yes,No,No,624
+Proscenic,Proscenic X6 Ultra,151,5.6,451,2251,68,Yes,No,Yes,Lidar,Yes,Yes,Yes,No,No,19,3.7,8.6,No,Yes,Yes,Yes,896
+Roborock,Roborock X30 Max,145,5.0,557,2299,68,No,No,Yes,Camera,Yes,No,Yes,No,Yes,14,3.0,10.2,No,Yes,No,Yes,453
+iRobot,iRobot V70 Max,155,5.2,547,3015,58,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,17,3.2,7.9,No,No,No,Yes,1044
+Dreame,Dreame R55,110,2.6,435,2780,70,Yes,No,Yes,Lidar+Camera,No,Yes,No,Yes,Yes,7,3.9,8.3,Yes,Yes,No,Yes,1090
+Proscenic,Proscenic R84 Max,184,4.7,396,3471,60,No,Yes,Yes,Lidar+Camera,Yes,No,No,Yes,Yes,10,3.6,7.8,No,No,Yes,Yes,927
+Proscenic,Proscenic R83 Max,162,4.8,577,2700,69,Yes,Yes,Yes,Camera,No,No,Yes,Yes,Yes,20,4.3,7.6,No,Yes,No,Yes,223
+Proscenic,Proscenic X41 Pro,109,5.2,586,2061,61,Yes,Yes,Yes,Lidar,No,No,Yes,Yes,Yes,15,3.8,9.9,Yes,Yes,Yes,No,489
+Roborock,Roborock X9 Max,125,6.0,666,3915,60,No,Yes,Yes,Infrared,No,Yes,Yes,Yes,Yes,20,5.4,10.0,No,No,Yes,No,744
+iRobot,iRobot R98,60,5.4,399,3803,69,No,No,Yes,Camera,Yes,Yes,No,Yes,No,13,4.7,8.9,Yes,No,Yes,No,1161
+Neato,Neato V33 Max,177,5.3,470,3741,67,No,No,Yes,Camera,No,Yes,Yes,No,No,6,2.6,10.3,No,No,No,Yes,1081
+Proscenic,Proscenic V30,70,5.1,485,3594,62,Yes,Yes,No,Infrared,No,No,No,Yes,No,10,4.0,8.3,Yes,Yes,No,Yes,948
+Roborock,Roborock X82 Ultra,174,3.5,649,5411,62,No,Yes,No,Lidar,No,Yes,No,No,No,15,3.3,10.1,No,No,No,No,658
+Roborock,Roborock X7 Max,162,3.3,584,3761,61,Yes,Yes,Yes,Infrared,No,Yes,Yes,Yes,No,15,5.3,7.4,No,Yes,No,No,554
+iRobot,iRobot S74 Ultra,121,3.2,487,2332,64,No,Yes,Yes,Lidar,Yes,No,No,Yes,Yes,17,4.3,7.2,No,Yes,Yes,Yes,300
+iRobot,iRobot V22 Max,102,3.6,461,2414,58,Yes,No,Yes,Infrared,Yes,No,No,Yes,No,10,2.8,9.9,Yes,No,No,No,484
+Eufy,Eufy X94 Ultra,185,3.8,375,2263,70,No,Yes,No,Infrared,Yes,No,Yes,Yes,No,17,5.3,10.1,Yes,Yes,No,Yes,786
+Eufy,Eufy X24 Max,172,5.6,413,3137,69,Yes,No,No,Lidar+Camera,No,No,No,Yes,Yes,11,3.1,10.1,Yes,Yes,No,No,430
+Samsung,Samsung R7 Ultra,174,5.4,433,4335,60,No,No,No,Infrared,No,Yes,Yes,No,No,17,5.1,9.6,No,Yes,Yes,Yes,490
+Roborock,Roborock X50 Ultra,108,3.5,479,5183,64,No,No,Yes,Infrared,Yes,No,No,No,No,6,5.0,7.4,Yes,Yes,Yes,No,522
+Roborock,Roborock V68,115,4.7,438,2172,66,Yes,No,Yes,Lidar,No,No,No,No,Yes,12,2.8,10.3,No,No,Yes,No,462
+iRobot,iRobot X67 Pro,126,3.3,359,2329,66,Yes,Yes,No,Camera,Yes,No,Yes,No,No,8,3.2,8.9,Yes,No,No,Yes,945
+Dreame,Dreame V75 Max,145,4.5,651,1604,58,No,No,No,Lidar+Camera,Yes,No,No,Yes,Yes,14,5.4,10.6,Yes,No,Yes,No,956
+Eufy,Eufy S89 Ultra,92,3.8,661,4692,68,Yes,No,No,Camera,No,Yes,No,Yes,No,20,5.4,9.8,Yes,Yes,No,Yes,1135
+Neato,Neato V87 Max,171,5.7,423,2699,60,Yes,No,No,Lidar+Camera,No,No,Yes,No,No,19,3.0,7.3,No,Yes,Yes,Yes,343
+Proscenic,Proscenic R7 Max,70,5.7,532,4152,70,No,Yes,No,Lidar+Camera,Yes,No,Yes,Yes,Yes,15,4.1,10.6,Yes,No,Yes,No,462
+Proscenic,Proscenic S59,68,2.8,411,1597,65,Yes,Yes,No,Lidar+Camera,No,Yes,Yes,Yes,No,11,3.7,10.5,No,Yes,Yes,No,981
+Ecovacs,Ecovacs V5,134,3.6,503,4159,57,Yes,No,No,Lidar+Camera,No,Yes,No,No,Yes,10,2.7,8.0,Yes,Yes,Yes,No,924
+iRobot,iRobot X94,131,2.6,563,3883,56,Yes,Yes,No,Lidar,No,Yes,Yes,No,No,13,4.1,8.9,Yes,No,Yes,Yes,886
+Xiaomi,Xiaomi X80,95,3.1,461,1596,65,No,No,Yes,Infrared,Yes,Yes,Yes,No,Yes,19,4.1,7.6,No,Yes,No,No,224
+Neato,Neato S68,66,5.1,358,4095,67,No,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,15,3.1,10.1,No,Yes,Yes,Yes,1029
+Proscenic,Proscenic R74,102,4.8,370,2716,56,No,Yes,Yes,Camera,Yes,No,Yes,No,No,8,4.5,10.6,Yes,No,No,No,951
+iRobot,iRobot S47 Pro,148,4.4,361,4143,67,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,Yes,13,5.0,10.6,Yes,No,No,Yes,1011
+Dreame,Dreame V70,143,4.8,381,5282,57,No,No,No,Lidar,Yes,No,No,Yes,Yes,20,2.8,10.6,No,No,Yes,No,859
+Eufy,Eufy V56,91,3.7,630,5579,59,Yes,Yes,No,Lidar,Yes,Yes,No,Yes,Yes,12,4.1,8.0,No,No,No,Yes,587
+Proscenic,Proscenic S75 Max,186,3.0,607,5787,70,No,Yes,Yes,Camera,No,No,No,No,No,11,4.4,9.9,No,No,No,Yes,354
+Xiaomi,Xiaomi R23 Max,76,5.7,692,1572,58,Yes,Yes,No,Camera,No,Yes,Yes,Yes,No,13,4.4,8.7,Yes,Yes,No,No,236
+Ecovacs,Ecovacs S32 Max,169,5.5,678,1916,61,No,Yes,Yes,Lidar,Yes,No,Yes,No,Yes,12,5.4,10.2,No,No,Yes,No,849
+Roborock,Roborock S41,176,3.4,534,2622,63,Yes,Yes,Yes,Infrared,No,Yes,No,Yes,No,10,5.0,7.5,No,No,Yes,No,373
+LG,LG R75 Ultra,150,5.8,695,3905,56,No,No,Yes,Camera,No,Yes,No,Yes,No,19,2.6,10.4,No,Yes,Yes,Yes,204
+Samsung,Samsung S81 Pro,65,2.7,374,4899,59,No,No,No,Camera,No,Yes,No,Yes,No,20,4.8,7.1,Yes,No,Yes,Yes,965
+LG,LG S8 Pro,183,4.1,408,1874,64,Yes,Yes,Yes,Camera,No,Yes,Yes,No,No,14,5.1,8.6,Yes,No,No,No,615
+Dreame,Dreame V87 Ultra,67,4.7,522,4955,55,No,Yes,Yes,Infrared,No,Yes,No,No,No,11,4.1,8.8,Yes,Yes,No,Yes,1153
+LG,LG S86 Max,151,3.2,626,2382,60,Yes,Yes,No,Camera,Yes,Yes,Yes,No,No,16,4.5,7.6,Yes,No,No,No,657
+Samsung,Samsung V57 Max,85,5.2,589,3710,57,Yes,No,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,No,15,3.5,9.7,Yes,Yes,Yes,No,1017
+Proscenic,Proscenic S36 Ultra,191,5.7,524,3733,64,Yes,No,Yes,Camera,No,No,No,No,Yes,15,3.3,8.2,No,No,Yes,Yes,917
+Xiaomi,Xiaomi X21 Pro,68,4.6,528,1563,61,No,No,Yes,Infrared,Yes,Yes,Yes,Yes,No,20,5.2,8.0,No,Yes,Yes,No,830
+Roborock,Roborock V67 Pro,119,3.3,483,4222,58,No,Yes,Yes,Lidar+Camera,Yes,No,Yes,No,Yes,16,3.2,9.7,No,No,No,Yes,656
+Samsung,Samsung V91 Max,179,6.0,497,2383,67,Yes,Yes,No,Infrared,Yes,Yes,Yes,Yes,No,18,5.3,8.6,Yes,Yes,No,Yes,969
+Proscenic,Proscenic V18 Max,159,3.1,536,3488,57,Yes,Yes,No,Lidar,Yes,No,No,Yes,Yes,9,5.3,8.8,Yes,Yes,Yes,Yes,1090
+Eufy,Eufy X16 Max,117,3.5,359,5927,69,Yes,No,No,Lidar+Camera,No,No,No,Yes,No,17,5.3,7.5,Yes,Yes,Yes,Yes,842
+iRobot,iRobot X45 Max,129,3.0,445,2304,62,No,Yes,No,Infrared,Yes,Yes,Yes,Yes,No,19,5.3,10.4,Yes,Yes,Yes,Yes,170
+Neato,Neato V17,164,5.9,369,5734,56,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,Yes,8,3.8,8.7,No,No,Yes,Yes,187
+Roborock,Roborock X94 Pro,99,3.2,489,2868,69,No,Yes,No,Lidar,No,Yes,Yes,Yes,No,6,4.9,9.3,Yes,Yes,No,No,889
+Proscenic,Proscenic S86,109,2.9,684,2822,68,No,Yes,No,Infrared,No,Yes,Yes,Yes,Yes,11,4.7,7.1,No,Yes,No,Yes,432
+Proscenic,Proscenic R92,147,5.2,640,4036,57,No,Yes,No,Infrared,No,No,No,No,No,10,4.7,11.0,Yes,Yes,No,No,157
+Roborock,Roborock X41,70,4.0,555,3460,66,No,No,No,Lidar,No,Yes,No,Yes,Yes,18,5.2,7.8,No,No,No,Yes,646
+Xiaomi,Xiaomi R68,190,5.2,359,4584,66,No,Yes,Yes,Camera,Yes,No,Yes,Yes,Yes,20,5.4,9.0,No,Yes,No,No,794
+Xiaomi,Xiaomi V92 Pro,180,5.9,516,5403,65,No,No,No,Camera,No,Yes,Yes,Yes,No,18,3.1,10.0,Yes,No,Yes,Yes,764
+iRobot,iRobot S48 Max,117,5.0,427,2364,70,No,No,Yes,Camera,No,Yes,No,No,No,9,2.6,9.8,No,Yes,No,Yes,723
+Samsung,Samsung R67 Pro,120,6.0,534,4923,70,No,Yes,No,Lidar,No,Yes,No,No,Yes,14,5.0,7.1,Yes,Yes,Yes,Yes,1053
+Samsung,Samsung R91,135,3.4,380,5364,59,Yes,No,Yes,Camera,Yes,No,No,No,No,8,3.3,10.9,Yes,Yes,No,Yes,1019
+Neato,Neato X11 Pro,103,5.1,634,3323,61,Yes,Yes,Yes,Camera,Yes,No,Yes,Yes,Yes,16,2.8,10.2,Yes,No,Yes,No,846
+Dreame,Dreame S88 Max,154,4.5,478,3070,63,Yes,No,Yes,Lidar,No,Yes,Yes,Yes,No,8,4.1,7.3,Yes,No,No,No,741
+Neato,Neato S76 Ultra,115,2.7,549,5061,62,No,No,No,Lidar,Yes,Yes,No,Yes,Yes,6,3.4,9.8,Yes,Yes,No,No,714
+Dreame,Dreame X54 Max,155,3.1,538,4211,57,No,Yes,Yes,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,9,2.7,9.6,Yes,No,No,No,576
+iRobot,iRobot S90 Max,111,2.8,683,2685,55,No,Yes,No,Infrared,Yes,Yes,No,No,Yes,7,4.6,10.1,No,No,No,No,442
+Neato,Neato R47 Ultra,74,2.8,679,2869,61,No,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,9,3.4,9.7,Yes,Yes,Yes,Yes,498
+Roborock,Roborock V84 Max,65,5.4,473,5179,58,Yes,Yes,Yes,Infrared,No,Yes,Yes,Yes,Yes,13,3.0,10.8,Yes,Yes,Yes,No,642
+iRobot,iRobot X87 Pro,197,5.7,672,4618,70,No,No,No,Camera,Yes,Yes,No,Yes,No,17,2.7,10.4,Yes,Yes,No,Yes,754
+Roborock,Roborock S37 Ultra,86,4.1,412,2418,63,No,Yes,Yes,Lidar+Camera,No,Yes,No,Yes,No,9,5.1,10.5,No,Yes,No,No,1034
+Dreame,Dreame X6 Max,135,5.4,416,2572,56,Yes,Yes,Yes,Infrared,Yes,Yes,No,No,Yes,13,5.1,8.9,Yes,Yes,No,No,360
+Eufy,Eufy S13 Pro,85,5.7,676,3843,63,Yes,No,No,Camera,Yes,Yes,Yes,Yes,No,9,5.4,10.6,No,No,Yes,Yes,234
+Proscenic,Proscenic X74 Max,119,3.6,448,2071,56,Yes,Yes,Yes,Infrared,Yes,No,No,No,Yes,8,4.5,10.9,No,No,No,No,983
+Samsung,Samsung X58 Max,133,4.8,655,2663,69,Yes,No,No,Infrared,Yes,No,Yes,No,No,7,2.7,9.8,Yes,No,No,Yes,954
+Neato,Neato S93,172,2.8,691,5666,60,No,No,Yes,Lidar,No,Yes,Yes,Yes,No,11,3.2,8.3,No,Yes,No,No,281
+Dreame,Dreame X81 Ultra,74,4.5,464,2534,58,No,No,Yes,Lidar,Yes,No,No,No,No,15,5.2,9.3,No,Yes,Yes,Yes,815
+Dreame,Dreame X31 Max,169,4.3,624,5656,66,No,Yes,Yes,Lidar+Camera,No,Yes,No,No,Yes,10,4.1,11.0,No,No,No,No,639
+iRobot,iRobot X5 Ultra,133,5.3,454,3910,65,No,Yes,Yes,Infrared,No,No,No,Yes,No,18,3.9,7.7,Yes,No,No,Yes,706
+iRobot,iRobot V95 Ultra,72,3.6,359,4001,68,Yes,No,Yes,Lidar,Yes,No,No,No,No,16,2.6,8.2,Yes,Yes,Yes,Yes,1184
+Xiaomi,Xiaomi S92 Ultra,150,4.3,456,2133,57,No,No,Yes,Camera,Yes,No,Yes,Yes,No,18,2.5,8.9,Yes,Yes,Yes,No,1025
+LG,LG R61,81,5.5,691,2608,62,No,Yes,Yes,Lidar,Yes,Yes,Yes,Yes,No,9,2.8,7.2,No,Yes,No,No,380
+Ecovacs,Ecovacs X8 Pro,129,2.7,498,5649,64,No,Yes,No,Camera,No,No,Yes,Yes,Yes,9,2.6,9.6,Yes,No,No,No,690
+Ecovacs,Ecovacs X31 Ultra,83,5.5,587,5746,55,Yes,No,No,Lidar+Camera,Yes,No,Yes,No,Yes,19,4.3,10.4,Yes,Yes,Yes,Yes,399
+Dreame,Dreame X77,195,4.6,539,3672,65,Yes,No,No,Lidar,Yes,No,Yes,No,No,11,2.7,8.2,No,Yes,Yes,No,941
+Ecovacs,Ecovacs R47 Ultra,130,5.9,540,2800,62,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,11,4.0,8.6,No,No,Yes,Yes,220
+Xiaomi,Xiaomi R94 Ultra,163,5.5,527,2181,56,Yes,Yes,No,Lidar+Camera,No,No,No,Yes,Yes,17,5.0,10.3,Yes,Yes,No,No,454
+Proscenic,Proscenic X5 Ultra,127,3.8,393,4950,64,No,Yes,No,Lidar,No,No,No,Yes,No,14,5.3,9.3,Yes,No,No,No,203
+Neato,Neato X78 Max,100,2.6,364,5624,69,Yes,No,No,Lidar,No,No,No,Yes,Yes,19,2.8,8.0,Yes,Yes,Yes,No,161
+Ecovacs,Ecovacs X45 Pro,170,4.7,355,1822,70,No,Yes,Yes,Lidar,No,No,No,Yes,No,6,4.0,9.5,No,Yes,No,No,1135
+Eufy,Eufy X10,126,2.8,357,4622,57,Yes,No,No,Lidar+Camera,Yes,No,No,Yes,Yes,12,4.5,7.6,Yes,Yes,No,No,182
+Roborock,Roborock R90 Pro,69,3.6,652,3427,57,Yes,No,Yes,Infrared,No,No,No,Yes,Yes,11,3.5,9.1,No,No,No,Yes,327
+Proscenic,Proscenic S58 Ultra,74,4.9,677,2627,65,Yes,No,Yes,Infrared,Yes,No,Yes,No,No,12,2.6,9.0,No,Yes,Yes,Yes,453
+Dreame,Dreame S98 Max,112,4.3,651,3993,59,Yes,No,No,Lidar+Camera,Yes,No,No,No,Yes,9,4.8,8.9,Yes,Yes,No,Yes,687
+Xiaomi,Xiaomi X17 Ultra,114,3.5,678,5145,58,No,Yes,No,Lidar+Camera,Yes,No,No,No,Yes,14,4.0,7.8,No,Yes,Yes,No,722
+Proscenic,Proscenic V90 Pro,74,4.5,691,4713,62,Yes,No,Yes,Infrared,No,Yes,No,Yes,No,18,2.7,8.9,No,No,Yes,No,678
+Eufy,Eufy X16 Pro,116,4.3,389,4451,67,No,Yes,No,Infrared,Yes,Yes,Yes,No,Yes,7,4.1,8.8,No,Yes,Yes,Yes,674
+Neato,Neato R15 Ultra,97,4.5,421,5049,55,No,Yes,No,Lidar+Camera,Yes,Yes,No,Yes,Yes,7,2.5,9.4,Yes,No,No,Yes,215
+Ecovacs,Ecovacs R86 Pro,131,3.2,350,2871,61,No,Yes,No,Infrared,Yes,No,Yes,Yes,Yes,10,2.9,10.0,No,No,Yes,No,422
+Ecovacs,Ecovacs V40 Pro,169,4.3,676,3174,61,No,Yes,Yes,Camera,Yes,No,Yes,No,No,14,4.0,8.1,Yes,No,Yes,No,216
+Dreame,Dreame X36 Ultra,153,5.7,656,2406,55,Yes,No,No,Lidar+Camera,Yes,No,Yes,No,No,19,3.6,7.1,No,No,No,No,543
+Roborock,Roborock V50 Ultra,100,5.5,496,5622,61,Yes,No,Yes,Lidar+Camera,No,Yes,Yes,Yes,No,11,4.2,8.9,No,Yes,No,No,462
+Roborock,Roborock X44 Ultra,73,3.9,485,3091,68,Yes,No,Yes,Lidar,No,No,No,No,No,15,4.2,9.8,Yes,Yes,Yes,No,962
+Dreame,Dreame R33 Max,197,3.2,581,2896,65,Yes,Yes,No,Camera,Yes,Yes,No,No,No,13,3.7,8.0,No,Yes,No,No,374
+Proscenic,Proscenic R9,114,2.8,546,1638,64,No,Yes,No,Lidar,Yes,No,Yes,Yes,No,9,4.5,10.6,Yes,No,No,No,789
+LG,LG X33 Max,62,5.6,651,3834,59,Yes,No,Yes,Lidar+Camera,No,No,No,No,No,7,3.0,8.7,Yes,No,Yes,Yes,1184
+Eufy,Eufy S65,69,4.2,689,4331,61,No,Yes,Yes,Camera,No,No,Yes,No,No,10,5.2,7.1,No,No,No,Yes,1145
+Xiaomi,Xiaomi V40,116,2.8,616,4450,69,Yes,Yes,Yes,Camera,No,No,No,No,Yes,18,4.0,10.4,No,Yes,No,Yes,1180
+Proscenic,Proscenic S89 Pro,135,3.1,400,5066,65,Yes,No,Yes,Lidar,No,No,Yes,Yes,No,9,4.6,10.4,Yes,No,No,Yes,1190
+Roborock,Roborock S87 Ultra,98,5.2,446,3415,55,No,Yes,No,Infrared,Yes,Yes,Yes,No,Yes,8,3.3,10.3,No,No,No,Yes,1157
+LG,LG S75 Ultra,181,4.5,494,2749,64,No,No,No,Lidar+Camera,No,No,No,No,No,12,4.7,7.5,No,No,No,Yes,174
+iRobot,iRobot S12 Pro,197,2.6,510,5802,56,Yes,No,No,Lidar+Camera,Yes,No,No,No,Yes,11,3.0,10.6,No,No,Yes,Yes,509
+Roborock,Roborock V87 Pro,170,5.4,440,1681,69,No,No,Yes,Lidar+Camera,Yes,Yes,Yes,No,Yes,16,5.1,8.3,Yes,Yes,Yes,Yes,1159
+Xiaomi,Xiaomi V59 Ultra,167,4.9,508,4536,70,Yes,Yes,Yes,Lidar+Camera,Yes,No,Yes,Yes,No,8,4.6,10.8,No,No,Yes,Yes,278
+LG,LG R90 Pro,188,5.0,461,5309,67,Yes,No,No,Lidar+Camera,No,No,Yes,No,No,15,5.0,10.4,Yes,Yes,Yes,No,463
+Neato,Neato S12 Max,95,3.0,578,1553,60,Yes,Yes,Yes,Lidar,Yes,Yes,Yes,No,No,10,3.4,9.7,No,No,Yes,Yes,819
+Dreame,Dreame V91 Max,117,5.5,584,4260,60,Yes,Yes,No,Lidar+Camera,No,No,No,Yes,No,15,4.8,7.9,No,No,Yes,Yes,1038
+Xiaomi,Xiaomi S56 Ultra,151,4.8,622,3576,68,Yes,Yes,Yes,Lidar,Yes,No,Yes,No,No,18,4.9,8.4,No,No,Yes,No,493
+iRobot,iRobot X64,143,2.7,640,5814,64,No,Yes,Yes,Camera,No,Yes,Yes,Yes,No,10,5.0,9.5,No,No,Yes,No,947
+Ecovacs,Ecovacs R60 Max,148,3.2,623,5370,57,Yes,Yes,No,Infrared,Yes,No,No,Yes,No,15,2.9,9.2,Yes,Yes,No,No,624
+Xiaomi,Xiaomi S5 Max,159,4.0,563,5833,55,No,Yes,No,Camera,No,Yes,No,No,No,10,4.6,10.5,Yes,Yes,Yes,No,998
+Xiaomi,Xiaomi R13 Ultra,119,5.7,448,2448,57,No,No,Yes,Lidar,Yes,Yes,No,Yes,No,16,4.0,9.6,No,No,Yes,Yes,1139
+Proscenic,Proscenic R49 Pro,106,5.4,656,5272,69,No,No,No,Infrared,Yes,No,No,No,Yes,19,4.2,8.2,Yes,No,No,Yes,905
+Samsung,Samsung S20 Max,84,5.3,567,3085,65,No,No,Yes,Lidar,No,No,Yes,No,No,11,3.5,8.0,No,No,No,No,389
+Neato,Neato X92 Ultra,123,5.0,696,5236,66,No,No,No,Camera,No,Yes,No,No,No,8,3.5,10.5,Yes,Yes,No,No,848
+Ecovacs,Ecovacs R32,99,3.9,681,2550,57,No,Yes,Yes,Camera,No,No,Yes,Yes,No,8,5.1,9.0,No,Yes,No,No,320
+iRobot,iRobot R38 Pro,158,3.6,442,1723,64,Yes,Yes,Yes,Lidar,Yes,No,Yes,Yes,Yes,14,5.4,8.8,No,No,Yes,No,956
+Neato,Neato S80,116,4.4,361,3648,57,Yes,Yes,Yes,Camera,No,No,No,Yes,Yes,17,5.1,10.4,Yes,Yes,Yes,Yes,477
+Roborock,Roborock R9 Max,197,3.5,458,2403,57,No,Yes,No,Camera,Yes,Yes,Yes,No,No,16,3.8,9.4,No,No,No,Yes,411
+iRobot,iRobot X91,100,4.2,498,3725,67,Yes,No,No,Lidar,Yes,Yes,No,Yes,Yes,15,2.6,7.1,Yes,Yes,No,No,1070
+Dreame,Dreame S36 Max,136,5.2,373,2048,68,No,Yes,Yes,Infrared,Yes,Yes,Yes,No,Yes,13,4.7,10.7,No,Yes,No,No,586
+LG,LG R6 Max,159,2.7,650,4894,56,No,Yes,No,Lidar+Camera,No,Yes,Yes,No,No,9,5.2,9.5,Yes,No,Yes,Yes,337
+Xiaomi,Xiaomi V11 Pro,82,3.7,449,5945,62,No,No,No,Camera,Yes,Yes,No,No,No,6,3.7,8.6,No,Yes,Yes,Yes,172
+Dreame,Dreame S88 Pro,124,4.8,416,3124,57,Yes,No,No,Infrared,Yes,Yes,Yes,Yes,Yes,10,5.3,7.1,No,No,No,Yes,195
+Samsung,Samsung S55,196,3.5,614,1737,66,No,No,Yes,Camera,Yes,Yes,Yes,Yes,No,20,4.0,9.8,Yes,Yes,Yes,Yes,755
+Eufy,Eufy R43 Ultra,153,4.5,551,5679,65,No,No,No,Infrared,No,No,No,No,No,12,2.7,7.4,No,No,No,No,573
+LG,LG V49 Pro,138,3.0,457,1793,59,Yes,Yes,Yes,Lidar+Camera,No,No,No,No,Yes,9,3.3,9.9,Yes,Yes,Yes,No,329
+Roborock,Roborock S20 Pro,179,3.6,676,4788,62,No,No,No,Lidar+Camera,Yes,Yes,Yes,No,Yes,13,3.9,8.0,No,No,No,Yes,1014
+iRobot,iRobot S14 Max,150,2.8,520,5765,61,No,Yes,Yes,Lidar,No,No,No,No,No,17,5.0,7.7,Yes,No,No,No,1084
+iRobot,iRobot S87 Pro,107,4.2,449,5125,55,No,Yes,Yes,Lidar,No,No,Yes,Yes,No,18,3.5,7.6,No,No,No,Yes,1126
+LG,LG S55 Ultra,67,4.7,537,3810,58,No,No,No,Lidar+Camera,Yes,Yes,Yes,Yes,Yes,13,4.7,9.0,Yes,No,No,Yes,890
+Neato,Neato X46 Pro,192,4.0,631,4899,66,Yes,No,Yes,Lidar+Camera,No,Yes,No,Yes,No,12,4.0,9.7,No,Yes,Yes,Yes,338
+Neato,Neato V95 Pro,77,5.7,355,4556,63,Yes,Yes,Yes,Camera,Yes,Yes,No,Yes,No,15,3.7,10.0,No,No,Yes,Yes,939
+Dreame,Dreame V55 Pro,184,4.5,360,3026,66,No,Yes,No,Lidar+Camera,No,No,Yes,No,No,11,3.1,10.6,No,No,No,No,745
+LG,LG V86,186,5.9,650,4915,56,No,No,No,Infrared,No,Yes,No,No,No,19,3.8,9.1,No,No,No,No,407
+iRobot,iRobot S63 Max,191,3.4,544,2819,70,No,Yes,No,Infrared,Yes,No,Yes,Yes,No,9,5.0,7.3,No,Yes,No,Yes,920
+Xiaomi,Xiaomi X95 Ultra,117,4.4,499,2462,62,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,No,6,2.8,10.0,No,No,No,No,155
+Neato,Neato R47 Max,72,4.3,587,2043,61,No,No,No,Lidar,No,No,No,No,No,16,4.0,7.6,No,Yes,No,No,589
+Xiaomi,Xiaomi V28,116,3.2,368,4971,59,No,No,No,Lidar,No,No,Yes,No,Yes,12,3.6,7.8,No,No,Yes,Yes,809
+iRobot,iRobot R93 Max,186,3.8,421,2959,55,No,No,No,Lidar,Yes,No,No,No,No,7,3.7,10.5,Yes,No,No,No,978
+LG,LG X70 Ultra,148,5.1,697,2112,66,Yes,No,No,Infrared,Yes,No,Yes,No,Yes,14,3.9,10.5,No,No,Yes,Yes,925
+Roborock,Roborock S57,81,2.7,376,4065,59,No,No,No,Lidar+Camera,No,No,No,No,Yes,18,5.4,7.2,No,Yes,No,No,796
+Roborock,Roborock S39 Ultra,199,3.7,451,3760,57,Yes,No,Yes,Lidar,No,No,Yes,No,Yes,20,4.6,7.6,No,No,No,No,386
+Eufy,Eufy V94 Ultra,139,4.1,403,3321,63,No,Yes,No,Lidar+Camera,No,Yes,No,Yes,Yes,10,5.3,9.2,No,Yes,Yes,No,278
+Ecovacs,Ecovacs S22,197,5.4,668,5060,62,Yes,No,Yes,Lidar,No,No,Yes,Yes,Yes,19,3.6,7.6,Yes,No,Yes,No,1160
+LG,LG V26 Max,177,5.5,417,2295,67,Yes,Yes,No,Lidar,Yes,No,No,Yes,No,13,3.0,7.2,Yes,No,Yes,Yes,730
+iRobot,iRobot R5,153,5.0,597,1543,66,No,Yes,No,Infrared,Yes,Yes,No,No,Yes,6,2.9,8.3,No,No,No,No,773
+Xiaomi,Xiaomi X21 Ultra,103,5.3,560,5273,61,No,Yes,Yes,Camera,Yes,Yes,No,Yes,Yes,13,3.8,9.1,Yes,No,Yes,No,312
+Roborock,Roborock V73 Ultra,95,3.1,424,2105,68,Yes,Yes,Yes,Camera,No,Yes,Yes,Yes,No,13,4.1,10.4,No,No,No,Yes,965
+Roborock,Roborock V49 Ultra,84,4.9,486,1769,62,Yes,Yes,Yes,Lidar,Yes,Yes,No,No,No,6,3.0,10.3,No,No,No,No,373
+Xiaomi,Xiaomi V69 Pro,64,4.1,608,4170,59,No,No,No,Camera,Yes,No,No,No,No,11,4.0,9.8,No,Yes,Yes,Yes,1104
+Xiaomi,Xiaomi S40,75,3.2,448,1857,57,Yes,Yes,No,Lidar+Camera,Yes,Yes,No,No,No,10,4.7,10.5,Yes,Yes,Yes,Yes,218
+Xiaomi,Xiaomi S99 Ultra,139,3.1,650,1743,68,Yes,No,Yes,Infrared,No,Yes,No,Yes,Yes,11,4.0,8.9,No,Yes,No,Yes,829
+iRobot,iRobot S49 Ultra,73,5.2,421,2737,58,Yes,No,No,Lidar,Yes,No,Yes,Yes,No,9,2.6,9.2,Yes,Yes,Yes,Yes,686
+Roborock,Roborock X27,63,3.5,694,4311,62,No,Yes,Yes,Camera,No,Yes,Yes,No,Yes,7,5.4,9.6,No,Yes,Yes,Yes,258
+LG,LG V99 Pro,180,5.6,421,3266,61,Yes,Yes,No,Lidar+Camera,Yes,Yes,Yes,Yes,No,19,3.8,10.4,No,Yes,No,No,300
+LG,LG V18 Ultra,125,4.9,496,4325,65,Yes,No,No,Lidar,Yes,No,No,Yes,Yes,18,5.3,9.5,No,No,No,No,591
+Samsung,Samsung S8 Max,76,4.9,515,1614,56,No,Yes,Yes,Camera,Yes,Yes,Yes,No,Yes,16,3.9,10.6,Yes,Yes,No,Yes,671
+Proscenic,Proscenic R10 Max,172,4.0,424,2848,69,Yes,No,Yes,Lidar+Camera,Yes,No,Yes,Yes,Yes,15,3.4,7.3,Yes,Yes,Yes,No,568
+Samsung,Samsung R16 Pro,151,2.9,487,2818,59,Yes,No,No,Infrared,Yes,Yes,No,Yes,Yes,19,4.5,10.9,No,No,Yes,Yes,978
+Samsung,Samsung S62,72,6.0,578,4867,65,No,Yes,Yes,Lidar+Camera,No,No,No,No,No,16,4.5,10.3,No,Yes,Yes,Yes,1110
+Xiaomi,Xiaomi X52 Max,200,5.1,523,1728,67,Yes,No,No,Camera,Yes,Yes,No,Yes,Yes,10,4.5,7.7,No,Yes,No,No,875
+Eufy,Eufy S57 Ultra,188,5.8,373,3721,58,No,No,Yes,Lidar+Camera,No,Yes,Yes,Yes,Yes,6,4.0,8.7,Yes,No,Yes,No,355
+Eufy,Eufy X49 Ultra,90,3.7,559,3850,57,No,Yes,Yes,Camera,Yes,No,No,Yes,No,16,4.8,9.7,Yes,No,Yes,Yes,1058
+Dreame,Dreame V61 Pro,177,3.5,548,3497,55,Yes,Yes,No,Camera,No,Yes,No,Yes,No,16,3.3,10.9,Yes,Yes,Yes,No,272
+iRobot,iRobot V48 Max,155,3.8,575,3559,61,Yes,No,Yes,Camera,Yes,Yes,No,No,Yes,18,5.1,9.8,Yes,Yes,No,No,510
+Samsung,Samsung V40 Max,121,4.9,516,3748,70,Yes,Yes,No,Lidar+Camera,No,Yes,No,No,Yes,7,4.7,10.0,Yes,No,Yes,No,418
+Eufy,Eufy X32 Ultra,124,5.9,684,4071,66,No,No,No,Lidar,No,Yes,Yes,No,No,10,5.0,8.6,No,Yes,Yes,No,1137
+Proscenic,Proscenic X73 Ultra,116,3.3,559,2664,67,Yes,No,No,Camera,Yes,No,No,No,No,11,3.4,8.3,Yes,Yes,No,No,841
+LG,LG S89,134,3.5,424,5567,65,No,Yes,No,Lidar+Camera,Yes,Yes,Yes,No,No,13,4.1,7.7,Yes,Yes,Yes,No,756
+Samsung,Samsung R9 Ultra,166,3.9,610,2308,56,Yes,No,No,Infrared,Yes,No,Yes,No,No,15,3.7,10.5,Yes,No,No,Yes,975
+LG,LG S82 Pro,170,3.5,668,3205,63,Yes,No,No,Lidar,No,No,No,Yes,No,9,4.4,10.0,No,No,No,Yes,927
+iRobot,iRobot S98 Max,195,5.4,561,3630,67,No,No,Yes,Infrared,No,Yes,Yes,Yes,Yes,15,2.5,8.3,Yes,Yes,No,Yes,577
+Samsung,Samsung V26 Pro,83,4.0,499,3751,55,Yes,No,Yes,Lidar+Camera,Yes,Yes,No,No,No,8,4.9,8.3,Yes,No,Yes,No,623
+Xiaomi,Xiaomi S43 Pro,125,2.8,680,5228,58,Yes,No,No,Lidar+Camera,No,No,Yes,No,Yes,18,2.5,8.7,No,No,Yes,No,472
+Roborock,Roborock S67 Max,159,5.6,360,5363,59,No,No,No,Lidar,No,No,Yes,No,No,20,3.1,7.5,Yes,Yes,No,No,303
+LG,LG V46 Pro,68,3.3,538,4302,63,Yes,Yes,No,Infrared,Yes,Yes,Yes,Yes,Yes,12,4.4,8.1,Yes,Yes,No,No,803
+Roborock,Roborock S81 Pro,188,3.0,524,5381,65,No,Yes,No,Lidar+Camera,No,No,Yes,No,No,14,3.8,7.7,No,No,No,No,829
+Samsung,Samsung X28 Pro,113,2.6,449,4447,66,No,Yes,Yes,Infrared,Yes,Yes,Yes,No,Yes,10,5.2,7.1,Yes,No,No,No,645
+Samsung,Samsung X26 Pro,128,3.3,607,5857,65,No,No,Yes,Lidar+Camera,Yes,No,No,Yes,Yes,18,4.2,8.4,No,Yes,Yes,Yes,1197
+Samsung,Samsung R82,116,3.9,388,3667,60,Yes,Yes,Yes,Infrared,Yes,No,No,No,Yes,17,5.2,10.6,Yes,No,No,No,365
+iRobot,iRobot V8 Pro,190,3.3,549,2139,64,No,Yes,No,Camera,Yes,No,Yes,No,Yes,11,3.9,8.0,No,No,Yes,Yes,1122
+iRobot,iRobot X68,132,3.9,379,5391,68,Yes,No,No,Infrared,No,No,Yes,Yes,No,8,3.4,8.0,No,No,Yes,No,783
+Roborock,Roborock X46 Max,97,5.9,590,5278,57,No,Yes,No,Camera,No,Yes,No,No,No,13,4.0,7.3,No,No,No,Yes,1008
